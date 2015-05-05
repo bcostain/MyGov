@@ -1,0 +1,11 @@
+# import os
+# os.chdir('/Users/bretcostain/Desktop/myGov')  # Change current working directory
+# os.system('mkdir today')   # Run the command mkdir in the system shell
+
+# Flatten JSON File
+import json
+from pprint import pprint
+
+with open('data.json') as data_file:    
+    data = json.load(data_file)
+pprint(data)

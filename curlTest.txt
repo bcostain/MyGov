@@ -1,0 +1,11 @@
+curl "https://www.googleapis.com/civicinfo/v2/representatives?key=AIzaSyA7KrZQYcgLzO0c4ObJL9G0f3IIsznpmro&address=1263%20Pacific%20Ave.%20Kansas%20City%20KS" -o data.json
+
+h = getCurlHandle(header = TRUE, userpwd = "bob:duncantl", netrc = TRUE)
+      getURL("http://www.omegahat.org/RCurl/testPassword/index.html", verbose = TRUE, curl = h)
+   }
+
+curl \-H "Content-Type: application/json" \-d "{ 'address': '725 Adobe Canyon Road Kenwood CA' }" \>> ~/output.txt \https://www.googleapis.com/civicinfo/v1/representatives/lookup?key=AIzaSyDS3b_PwC4Zg1fN5pjWlEt8g_9125lxV8U
+
+getURL ("\-H "Content-Type: application/json" \-d "{ 'address': '725 Adobe Canyon Road Kenwood CA' }" \>> ~/output.txt \https://www.googleapis.com/civicinfo/v1/representatives/lookup?key=AIzaSyDS3b_PwC4Zg1fN5pjWlEt8g_9125lxV8U")
+
+var replaced = str.replace("%20", " ")

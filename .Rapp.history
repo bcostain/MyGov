@@ -1,0 +1,1200 @@
+1+1
+c(43, 42, 12, 8, 5)
+myFamilyAges <- c(43, 42, 12, 8, 5)
+myFamilyAges
+sum(myFamilyAges)
+mean(myFamilyAges)
+range(myFamilyAges)
+fish(myFamilyAges)
+ls()
+myRange <- range(myFamilyAges)
+myrange
+myRange
+append(myFamilyAges,17)
+mtFamilyAges
+myFamilyAges
+myFamilyAges<- append(myFamilyAges,17)
+myFamilyAges
+BasketballTeam <- c(Allen, Bobby, Charlie, Danny, Ethan, Frank, George, Harry, Timmy)BaseballTeam <- c(Johnny, Ian, Bobby, Frank, Timmy)
+BasketballTeam <- c(“Allen”, “Bobby”, “Charlie”, “Danny”, “Ethan”, “Frank”, “George”, “Harry”, “Timmy”)BaseballTeam <- c(“Johnny”, “Ian”, “Bobby”, “Frank”, “Timmy”)
+BasketballTeam <-c(“Allen”, “Bobby”, “Charlie”, “Danny”, “Ethan”, “Frank”, “George”, “Harry”, “Timmy”)
+BasketballTeam
+BasketballTeam <- c(“Allen”, “Bobby”, “Charlie”, “Danny”, “Ethan”, “Frank”, “George”, “Harry”, “Timmy”)
+BasketballTeam <- c (“Allen”, “Bobby”, “Charlie”, “Danny”, “Ethan”, “Frank”, “George”, “Harry”, “Timmy”)
+BasketballTeam <- c (“Allen”,“Bobby”,“Charlie”,“Danny”,“Ethan”, “Frank”,“George”,“Harry”,“Timmy”)
+myFamilyNames <- c("Dad","Mom","Sis","Bro","Dog")
+BasketballTeam <- c("Dad","Mom","Sis","Bro","Dog")
+BasketballTeam <- c ("Allen","Bobby","Charlie","Danny","Ethan", "Frank","George","Harry","Timmy")
+BaseballTeam <- c ("Johnny","Ian", "Bobby", "Frank","Timmy")
+BasketballTeam
+BaseballTeam
+BaseballTeam & BasketballTeam
+BaseballTeam AND BasketballTeam
+BasketballTeam <- c (1,2,3,4,5,6,7,8,9)BaseballTeam <- c (1, 2, 3, 4, 5)
+BasketballTeam
+BaseballTeam
+BaseballTeam & BasketballTeam
+BasketballTeam <- c (1,2,3,4,5,6,7,8,9)BaseballTeam <- c (1, 2, 3, 4, 5,10, 11, 12, 13)
+BaseballTeam & BasketballTeam
+BaseballTeam
+BsketballTeam
+BasketballTeam
+1 $ BaseballTeam
+1 & 1
+1 & 2
+1 & 0
+0 & 1
+0 & 0
+1 & 3
+1 | 1
+1 | 0
+1 ! 1
+2 ! 2
+!
+``
+1!1
+!1
+!BaseballTeam
+BaseballTeam > 5
+BaseballTeam <3
+BaseballTeam <3 & Baseballteam >5
+BaseballTeam <3 & BaseballTeam >5
+BaseballTeam <3 | BaseballTeam >5
+BaseballTeam <3 !BaseballTeam >5
+!BaseballTeam
+![BaseballTeam <3]
+!BaseballTeam
+1 & 1
+1&0
+0&1
+0&0
+1|1
+1|0
+0|1
+0|0
+1!1
+!1
+!0
+1 & !1
+1 & !0
+0 & !1
+0 & !0
+!1
+!0
+!1 & 0
+!0
+!0 & !0
+!0 & 1
+1 & !0
+0 & !1
+!1 & 0
+!1
+0
+0 & 0
+1 & !0
+1 % !1
+1 & !1
+1 | 1
+1 | 0
+0| 1
+0 | 0
+1&!11&!00&!10&!0
+1|11|00|10|0
+1&11&00&10&0
+#Timmy is flipping a coin.  #The results of the coin toss can be Tails or Heads.  #One the Tails side of the coin is the Number 1.  #On the Heads side 0f the Coins is the Number 0.
+#Timmy is flipping a coin.  #The results of the coin toss can be Tails or Heads.  #One the Tails side of the coin is the Number 1.  #On the Heads side 0f the Coins is the Number 0.#In the AND Game, Timmy Wins when Both coin tosses are Tails#In the OR Game, Timmy Wins when either of the coin tosses is Tails#In the NOT Game, Timmy Wins when the first coin tosses is Tails and the second coin toss is Heads##AND Commands1&11&00&10&0##OR Commands1|11|00|10|0##NOT Commands1&!11&!00&!10&!0
+!1
+# AND Game Result 1, First Toss Tails(1), Second Toss Tails(1)
+#Timmy is flipping a coin.  #The results of the coin toss can be Tails or Heads.  #One the Tails side of the coin is the Number 1.  #On the Heads side 0f the Coins is the Number 0.#In the AND Game, Timmy Wins when Both coin tosses are Tails#In the OR Game, Timmy Wins when either of the coin tosses is Tails#In the NOT Game, Timmy Wins when the first coin tosses is Tails and the second coin toss is Heads#In the Game Results below, Timmy when the result is “TRUE”##AND Game Results# AND Game Result 1, First Toss Tails(1), Second Toss Tails(1)1&1#AND Game Result 2, First Toss Tails(1), Second Toss Heads(0)1&0#AND Game Result 3, First Toss Heads(0), Second Toss Tails(1)0&1#AND Game Result 4, First Toss Heads (0), Second Toss Heads (0)0&0##OR Results# OR Game Result 1, First Toss Tails(1), Second Toss Tails(1)1|1#OR Game Result 2, First Toss Tails(1), Second Toss Heads(0)1|0#OR Game Result 3, First Toss Heads(0), Second Toss Tails(1)0|1#OR Game Result 4, First Toss Heads (0), Second T
+oss Heads (0)0|0##NOT Results# NOT Game Result 1, First Toss Tails(1), Second Toss Tails(1)1&!1#NOT Game Result 2, First Toss Tails(1), Second Toss Heads(0)1&!0#NOT Game Result 3, First Toss Heads(0), Second Toss Tails(1)0&!1#NOT Game Result 4, First Toss Heads (0), Second Toss Heads (0)0&!0
+#IST 687#Fall 2014#R Exercise 1#Submitted by Bret Costain#Due September 7, 2014#Exmplation for a seven year-old as follows#Timmy is flipping a coin.  #The results of the coin toss can be Tails or Heads.  #One the Tails side of the coin is the Number 1.  #On the Heads side 0f the Coins is the Number 0.#In the AND Game, Timmy Wins when Both coin tosses are Tails#In the OR Game, Timmy Wins when either of the coin tosses is Tails#In the NOT Game, Timmy Wins when the first coin tosses is Tails and the second coin toss is Heads#In the Game Results below, Timmy when the result is “TRUE”##AND Game Results# AND Game Result 1, First Toss Tails(1), Second Toss Tails(1)1&1#AND Game Result 2, First Toss Tails(1), Second Toss Heads(0)1&0#AND Game Result 3, First Toss Heads(0), Second Toss Tails(1)0&1#AND Game Result 4, First Toss Heads (0), Second Toss Heads (0)0&0##OR Game Results# OR Game Result 1, First Toss Tails(1), Second Toss Tails(1)1|1#OR Game Result 2, First Toss Tails(1), Second
+Toss Heads(0)1|0#OR Game Result 3, First Toss Heads(0), Second Toss Tails(1)0|1#OR Game Result 4, First Toss Heads (0), Second Toss Heads (0)0|0##NOT Game Results# NOT Game Result 1, First Toss Tails(1), Second Toss Tails(1)1&!1#NOT Game Result 2, First Toss Tails(1), Second Toss Heads(0)1&!0#NOT Game Result 3, First Toss Heads(0), Second Toss Tails(1)0&!1#NOT Game Result 4, First Toss Heads (0), Second Toss Heads (0)0&!0
+#IST 687#Fall 2014#Activity 1: Boolean Logic#Submitted by Bret Costain#Due September 7, 2014 #Instructions: Write a piece of R code that you could use to teach a seven-year-old child about Boolean logic. #If you have never encountered Boolean logic before (sometimes it is called Boolean algebra), you will have to look it up to discover the three essential operations (AND, OR, NOT) and how they work. #In addition, you will have to discover the “operators” (i.e., the special punctuation marks) that R uses to represent Boolean operations.##Learning Goals for this activity:#A. Making sure that you have R running properly on your computer.#B. Familiarity with the command line (console) interface of R.#C. Understanding of the foundation of “conditionals” in programming: Boolean logic/algebra.#D. Developing informative commenting practices. ##Explanation for a seven year-old as follows#Timmy is flipping a coin.  #The results of the coin toss can be Tails or Heads.  #One the Tails side of
+the coin is the Number 1.  #On the Heads side 0f the Coins is the Number 0.#In the AND Game, Timmy Wins when both coin tosses are Tails#In the OR Game, Timmy Wins when either of the coin tosses is Tails#In the NOT Game, Timmy Wins when the first coin tosses is Tails and the second coin toss is Heads.#In the Game Results below, Timmy when the result is “TRUE”#Question for the seven year-old: In which game does Timmy wins most often, the AND Game, the OR Game, or the NOT Game?##AND Game Results# AND Game Result 1, First Toss Tails(1), Second Toss Tails(1)1&1#AND Game Result 2, First Toss Tails(1), Second Toss Heads(0)1&0#AND Game Result 3, First Toss Heads(0), Second Toss Tails(1)0&1#AND Game Result 4, First Toss Heads (0), Second Toss Heads (0)0&0##OR Game Results# OR Game Result 1, First Toss Tails(1), Second Toss Tails(1)1|1#OR Game Result 2, First Toss Tails(1), Second Toss Heads(0)1|0#OR Game Result 3, First Toss Heads(0), Second Toss Tails(1)0|1#OR Game Result 4, First Toss
+Heads (0), Second Toss Heads (0)0|0##NOT Game Results# NOT Game Result 1, First Toss Tails(1), Second Toss Tails(1)1&!1#NOT Game Result 2, First Toss Tails(1), Second Toss Heads(0)1&!0#NOT Game Result 3, First Toss Heads(0), Second Toss Tails(1)0&!1#NOT Game Result 4, First Toss Heads (0), Second Toss Heads (0)0&!0
+#IST 687#Fall 2014#Activity 1: Boolean Logic#Submitted by Bret Costain#Due September 7, 2014 #Instructions: Write a piece of R code that you could use to teach a seven-year-old child about Boolean logic. #If you have never encountered Boolean logic before (sometimes it is called Boolean algebra), you will have to look it up to discover the three essential operations (AND, OR, NOT) and how they work. #In addition, you will have to discover the “operators” (i.e., the special punctuation marks) that R uses to represent Boolean operations.##Learning Goals for this activity:#A. Making sure that you have R running properly on your computer.#B. Familiarity with the command line (console) interface of R.#C. Understanding of the foundation of “conditionals” in programming: Boolean logic/algebra.#D. Developing informative commenting practices. ##Explanation for a seven year-old as follows#Timmy is flipping a coin.  #The results of the coin toss can be Tails or Heads.  #One the Tails side of
+the coin is the Number 1.  #On the Heads side 0f the Coins is the Number 0.#In the AND Game, Timmy Wins when both coin tosses are Tails#In the OR Game, Timmy Wins when either of the coin tosses is Tails#In the NOT Game, Timmy Wins when the first coin tosses is Tails and the second coin toss is Heads.#In the Game Results below, Timmy when the result is “TRUE”#Question for the seven year-old: In which game does Timmy wins most often, the AND Game, the OR Game, or the NOT Game?##--- AND Game Results# AND Game Result 1, First Toss Tails(1), Second Toss Tails(1)1&1#AND Game Result 2, First Toss Tails(1), Second Toss Heads(0)1&0#AND Game Result 3, First Toss Heads(0), Second Toss Tails(1)0&1#AND Game Result 4, First Toss Heads (0), Second Toss Heads (0)0&0##--- OR Game Results#OR Game Result 1, First Toss Tails(1), Second Toss Tails(1)1|1#OR Game Result 2, First Toss Tails(1), Second Toss Heads(0)1|0#OR Game Result 3, First Toss Heads(0), Second Toss Tails(1)0|1#OR Game Result 4, Firs
+t Toss Heads (0), Second Toss Heads (0)0|0##--- NOT Game Results#NOT Game Result 1, First Toss Tails(1), Second Toss Tails(1)1&!1#NOT Game Result 2, First Toss Tails(1), Second Toss Heads(0)1&!0#NOT Game Result 3, First Toss Heads(0), Second Toss Tails(1)0&!1#NOT Game Result 4, First Toss Heads (0), Second Toss Heads (0)0&!0
+!1
+#IST 687#Fall 2014#Activity 1: Boolean Logic#Submitted by Bret Costain#Due September 7, 2014 #Instructions: Write a piece of R code that you could use to teach a seven-year-old child about Boolean logic. #If you have never encountered Boolean logic before (sometimes it is called Boolean algebra), you will have to look it up to discover the three essential operations (AND, OR, NOT) and how they work. #In addition, you will have to discover the “operators” (i.e., the special punctuation marks) that R uses to represent Boolean operations.##Learning Goals for this activity:#A. Making sure that you have R running properly on your computer.#B. Familiarity with the command line (console) interface of R.#C. Understanding of the foundation of “conditionals” in programming: Boolean logic/algebra.#D. Developing informative commenting practices. ##Explanation for a seven year-old as follows#Timmy is flipping a coin.  #The results of the coin toss can be Tails or Heads.  #One the Tails side of
+the coin is the Number 1.  #On the Heads side 0f the Coins is the Number 0.#In the AND Game, Timmy Wins when both coin tosses are Tails (1)#In the OR Game, Timmy Wins when either of the coin tosses is Tails(1)#In the NOT Game, Timmy Wins when the first coin tosses is Tails(1) and the second coin toss is Heads(0).#In the Game Results below, Timmy wins when the result is “TRUE”#Question for the seven year-old: In which game does Timmy wins most often, the AND Game, the OR Game, or the NOT Game?##--- AND Game Results# AND Game Result 1, First Toss Tails(1), Second Toss Tails(1)1&1#AND Game Result 2, First Toss Tails(1), Second Toss Heads(0)1&0#AND Game Result 3, First Toss Heads(0), Second Toss Tails(1)0&1#AND Game Result 4, First Toss Heads(0), Second Toss Heads(0)0&0##--- OR Game Results#OR Game Result 1, First Toss Tails(1), Second Toss Tails(1)1|1#OR Game Result 2, First Toss Tails(1), Second Toss Heads(0)1|0#OR Game Result 3, First Toss Heads(0), Second Toss Tails(1)0|1#OR Gam
+e Result 4, First Toss Heads(0), Second Toss Heads(0)0|0##--- NOT Game Results#NOT Game Result 1, First Toss Tails(1), Second Toss Tails(1)1&!1#NOT Game Result 2, First Toss Tails(1), Second Toss Heads(0)1&!0#NOT Game Result 3, First Toss Heads(0), Second Toss Tails(1)0&!1#NOT Game Result 4, First Toss Heads(0), Second Toss Heads(0)0&!0
+1 ! 1
+#IST 687#Fall 2014#Activity 1: Boolean Logic#Submitted by Bret Costain#Due September 7, 2014 #Instructions: Write a piece of R code that you could use to teach a seven-year-old child about Boolean logic. #If you have never encountered Boolean logic before (sometimes it is called Boolean algebra), you will have to look it up to discover the three essential operations (AND, OR, NOT) and how they work. #In addition, you will have to discover the “operators” (i.e., the special punctuation marks) that R uses to represent Boolean operations.##Learning Goals for this activity:#A. Making sure that you have R running properly on your computer.#B. Familiarity with the command line (console) interface of R.#C. Understanding of the foundation of “conditionals” in programming: Boolean logic/algebra.#D. Developing informative commenting practices. ##Note: For the purpose of this activity, NOT was assumed to be the AND NOT function##Explanation for a seven year-old as follows#Timmy is flipping a
+coin.  #The results of the coin toss can be Tails or Heads.  #One the Tails side of the coin is the Number 1.  #On the Heads side 0f the Coins is the Number 0.#In the AND Game, Timmy Wins when both coin tosses are Tails (1)#In the OR Game, Timmy Wins when either of the coin tosses is Tails(1)#In the NOT Game, Timmy Wins when the first coin tosses is Tails(1) and the second coin toss is Heads(0).#In the Game Results below, Timmy wins when the result is “TRUE”#Question for the seven year-old: In which game does Timmy wins most often, the AND Game, the OR Game, or the NOT Game?##--- AND Game Results# AND Game Result 1, First Toss Tails(1), Second Toss Tails(1)1&1#AND Game Result 2, First Toss Tails(1), Second Toss Heads(0)1&0#AND Game Result 3, First Toss Heads(0), Second Toss Tails(1)0&1#AND Game Result 4, First Toss Heads(0), Second Toss Heads(0)0&0##--- OR Game Results#OR Game Result 1, First Toss Tails(1), Second Toss Tails(1)1|1#OR Game Result 2, First Toss Tails(1), Second Toss
+Heads(0)1|0#OR Game Result 3, First Toss Heads(0), Second Toss Tails(1)0|1#OR Game Result 4, First Toss Heads(0), Second Toss Heads(0)0|0##--- NOT Game Results#NOT Game Result 1, First Toss Tails(1), Second Toss Tails(1)1&!1#NOT Game Result 2, First Toss Tails(1), Second Toss Heads(0)1&!0#NOT Game Result 3, First Toss Heads(0), Second Toss Tails(1)0&!1#NOT Game Result 4, First Toss Heads(0), Second Toss Heads(0)0&!0
+#IST 687#Fall 2014#Activity 1: Boolean Logic#Submitted by Bret Costain#Due September 7, 2014 #Instructions: Write a piece of R code that you could use to teach a seven-year-old child about Boolean logic. #If you have never encountered Boolean logic before (sometimes it is called Boolean algebra), you will have to look it up to discover the three essential operations (AND, OR, NOT) and how they work. #In addition, you will have to discover the “operators” (i.e., the special punctuation marks) that R uses to represent Boolean operations.##Learning Goals for this activity:#A. Making sure that you have R running properly on your computer.#B. Familiarity with the command line (console) interface of R.#C. Understanding of the foundation of “conditionals” in programming: Boolean logic/algebra.#D. Developing informative commenting practices. ##Note: For the purpose of this activity, NOT was assumed to be the AND NOT function##Explanation for a seven year-old as follows#Timmy is flipping a
+coin.  #The results of the coin toss can be Tails or Heads.  #One the Tails side of the coin is the Number 1.  #On the Heads side 0f the Coins is the Number 0.#In the AND Game, Timmy Wins when both coin tosses are Tails (1)#In the OR Game, Timmy Wins when either of the coin tosses is Tails(1)#In the NOT Game, Timmy Wins when the first coin tosses is Tails(1) and the second coin toss is Heads(0).#In the Game Results below, Timmy wins when the result is “TRUE”#Question for the seven year-old: In which game does Timmy wins most often, the AND Game, the OR Game, or the NOT Game?##--- AND Game Results# AND Game Result 1, First Toss Tails(1), Second Toss Tails(1)1&1#AND Game Result 2, First Toss Tails(1), Second Toss Heads(0)1&0#AND Game Result 3, First Toss Heads(0), Second Toss Tails(1)0&1#AND Game Result 4, First Toss Heads(0), Second Toss Heads(0)0&0##--- QUESTIONS about AND Game Results#How many Results above were True (Timmy Wins)?#How many Results above were False (Timmy Loses)?#
+#--- OR Game Results#OR Game Result 1, First Toss Tails(1), Second Toss Tails(1)1|1#OR Game Result 2, First Toss Tails(1), Second Toss Heads(0)1|0#OR Game Result 3, First Toss Heads(0), Second Toss Tails(1)0|1#OR Game Result 4, First Toss Heads(0), Second Toss Heads(0)0|0##--- QUESTIONS about OR Game Results#How many Results above were True (Timmy Wins)?#How many Results above were False (Timmy Loses)?##--- NOT Game Results#NOT Game Result 1, First Toss Tails(1), Second Toss Tails(1)1&!1#NOT Game Result 2, First Toss Tails(1), Second Toss Heads(0)1&!0#NOT Game Result 3, First Toss Heads(0), Second Toss Tails(1)0&!1#NOT Game Result 4, First Toss Heads(0), Second Toss Heads(0)0&!0#--- QUESTIONS about NOT Game Results#How many Results above were True (Timmy Wins)?#How many Results above were False (Timmy Loses)?##--- QUESTIONS about ALL Game Results# In which game does Timmy win most often, the AND Game, the OR Game, or the NOT Game?
+!0
+1&!0
+0&!0
+1&!11&!00&!10&!0
+#IST 687#Fall 2014#Activity 1: Boolean Logic#Submitted by Bret Costain#Due September 7, 2014 #Instructions: Write a piece of R code that you could use to teach a seven-year-old child about Boolean logic. #If you have never encountered Boolean logic before (sometimes it is called Boolean algebra), you will have to look it up to discover the three essential operations (AND, OR, NOT) and how they work. #In addition, you will have to discover the “operators” (i.e., the special punctuation marks) that R uses to represent Boolean operations.##Learning Goals for this activity:#A. Making sure that you have R running properly on your computer.#B. Familiarity with the command line (console) interface of R.#C. Understanding of the foundation of “conditionals” in programming: Boolean logic/algebra.#D. Developing informative commenting practices. ##Note: For the purpose of this activity, NOT was assumed to be the AND NOT function.##EXPLANATION for a seven year-old as follows#Timmy is flipping a
+coin.  #The results of the coin toss can be Tails or Heads.  #On the Tails side of the coin is the Number 1.  #On the Heads side of the coin is the Number 0.#In the AND Game, Timmy Wins when both coin tosses are Tails (1)#In the OR Game, Timmy Wins when either of the coin tosses is Tails(1)#In the NOT Game, Timmy Wins when the first coin tosses is Tails(1) and the second coin toss is Heads(0).#In the Game Results below, Timmy wins when the result is “TRUE”#Question for the seven year-old: In which game does Timmy win most often, the AND Game, the OR Game, or the NOT Game?##--- AND Game#In the AND Game, Timmy Wins when both coin tosses are Tails (1)#--- AND Game Results# AND Game Result 1, First Toss Tails(1), Second Toss Tails(1)1&1#AND Game Result 2, First Toss Tails(1), Second Toss Heads(0)1&0#AND Game Result 3, First Toss Heads(0), Second Toss Tails(1)0&1#AND Game Result 4, First Toss Heads(0), Second Toss Heads(0)0&0##--- QUESTIONS about AND Game Results#How many Results abov
+e were True (Timmy Wins)?#How many Results above were False (Timmy Loses)?##--- OR Game#In the OR Game, Timmy Wins when either of the coin tosses is Tails(1)#--- OR Game Results#OR Game Result 1, First Toss Tails(1), Second Toss Tails(1)1|1#OR Game Result 2, First Toss Tails(1), Second Toss Heads(0)1|0#OR Game Result 3, First Toss Heads(0), Second Toss Tails(1)0|1#OR Game Result 4, First Toss Heads(0), Second Toss Heads(0)0|0##--- QUESTIONS about OR Game Results#How many Results above were True (Timmy Wins)?#How many Results above were False (Timmy Loses)?##---NOT Game#In the NOT Game, Timmy Wins when the first coin tosses is Tails(1) and the second coin toss is Heads(0).#--- NOT Game Results#NOT Game Result 1, First Toss Tails(1), Second Toss Tails(1)1&!1#NOT Game Result 2, First Toss Tails(1), Second Toss Heads(0)1&!0#NOT Game Result 3, First Toss Heads(0), Second Toss Tails(1)0&!1#NOT Game Result 4, First Toss Heads(0), Second Toss Heads(0)0&!0#--- QUESTIONS about NOT Game R
+esults#How many Results above were True (Timmy Wins)?#How many Results above were False (Timmy Loses)?##--- QUESTIONS about ALL Game Results# In which game does Timmy win most often, the AND Game, the OR Game, or the NOT Game?
+#IST 687#Fall 2014#Activity 1: Boolean Logic#Submitted by Bret Costain#Due September 7, 2014 #Instructions: Write a piece of R code that you could use to teach a seven-year-old child about Boolean logic. #If you have never encountered Boolean logic before (sometimes it is called Boolean algebra), you will have to look it up to discover the three essential operations (AND, OR, NOT) and how they work. #In addition, you will have to discover the “operators” (i.e., the special punctuation marks) that R uses to represent Boolean operations.##Learning Goals for this activity:#A. Making sure that you have R running properly on your computer.#B. Familiarity with the command line (console) interface of R.#C. Understanding of the foundation of “conditionals” in programming: Boolean logic/algebra.#D. Developing informative commenting practices. ##Note: For the purpose of this activity, NOT was assumed to be the AND NOT function.##EXPLANATION for a seven year-old as follows:#Boolean logic is n
+amed after George Boole, a mathematician who lived in the nineteenth-century. #In Boolean logic all values either TRUE or FALSE.#TRUE can also be represented by the number 1.#FALSE can also be represented by the number 0.#To illustrate the use of Boolean logic let’s look at a game were a coin is tossed twice and this is repeated four times in each game.#Imaging a boy name Timmy is flipping a coin over and over.  #The results of the coin toss can be Tails or Heads.  #On the Tails side of the coin is the Number 1.  #On the Heads side of the coin is the Number 0.#In the AND-Game, Timmy Wins when both coin tosses are Tails (1)#In the OR-Game, Timmy Wins when either of the coin tosses is Tails(1)#In the NOT-Game, Timmy Wins when the first coin tosses is Tails(1) and the second coin toss is Heads(0).#In the Game Results below, Timmy wins when the result is “TRUE”#Question for the seven year-old: In which game does Timmy win most often, the AND-Game, the OR-Game, or the NOT-Game?##--- AND-Game
+#In the AND-Game, Timmy Wins when both coin tosses are Tails (1)#--- AND-Game Results# AND-Game Result 1, First Toss Tails(1), Second Toss Tails(1)1&1#AND-Game Result 2, First Toss Tails(1), Second Toss Heads(0)1&0#AND-Game Result 3, First Toss Heads(0), Second Toss Tails(1)0&1#AND-Game Result 4, First Toss Heads(0), Second Toss Heads(0)0&0##--- QUESTIONS about AND-Game Results#How many Results above were True (Timmy Wins)?#How many Results above were False (Timmy Loses)?##--- OR-Game#In the OR-Game, Timmy Wins when either of the coin tosses is Tails(1)#--- OR-Game Results#OR-Game Result 1, First Toss Tails(1), Second Toss Tails(1)1|1#OR-Game Result 2, First Toss Tails(1), Second Toss Heads(0)1|0#OR-Game Result 3, First Toss Heads(0), Second Toss Tails(1)0|1#OR-Game Result 4, First Toss Heads(0), Second Toss Heads(0)0|0##--- QUESTIONS about OR-Game Results#How many Results above were True (Timmy Wins)?#How many Results above were False (Timmy Loses)?##---NOT-Game#In the NOT-
+Game, Timmy Wins when the first coin tosses is Tails(1) and the second coin toss is Heads(0).#--- NOT-Game Results#NOT-Game Result 1, First Toss Tails(1), Second Toss Tails(1)1&!1#NOT-Game Result 2, First Toss Tails(1), Second Toss Heads(0)1&!0#NOT-Game Result 3, First Toss Heads(0), Second Toss Tails(1)0&!1#NOT-Game Result 4, First Toss Heads(0), Second Toss Heads(0)0&!0#--- QUESTIONS about NOT-Game Results#How many Results above were True (Timmy Wins)?#How many Results above were False (Timmy Loses)?##--- QUESTIONS about ALL Game Results# In which game does Timmy win most often, the AND-Game, the OR-Game, or the NOT-Game?
+#IST 687#Fall 2014#Activity 1: Boolean Logic#Submitted by Bret Costain#Due September 7, 2014 #Instructions: Write a piece of R code that you could use to teach a seven-year-old child about Boolean logic. #If you have never encountered Boolean logic before (sometimes it is called Boolean algebra), you will have to look it up to discover the three essential operations (AND, OR, NOT) and how they work. #In addition, you will have to discover the “operators” (i.e., the special punctuation marks) that R uses to represent Boolean operations.##Learning Goals for this activity:#A. Making sure that you have R running properly on your computer.#B. Familiarity with the command line (console) interface of R.#C. Understanding of the foundation of “conditionals” in programming: Boolean logic/algebra.#D. Developing informative commenting practices. ##Note: For the purpose of this activity, NOT was assumed to be the AND NOT function.##EXPLANATION for a seven year-old as follows:#Boolean logic is n
+amed after George Boole, a mathematician who lived in the nineteenth-century. #In Boolean logic all values either TRUE or FALSE.#TRUE can also be represented by the number 1.#FALSE can also be represented by the number 0.#To illustrate the use of Boolean logic let’s look at a game were a coin is tossed twice and this is repeated four times in each game.#Imaging a boy name Timmy is flipping a coin over and over.  #The results of the coin toss can be Tails or Heads.  #On the Tails side of the coin is the Number 1.  #On the Heads side of the coin is the Number 0.#In the AND-Game, Timmy Wins when both coin tosses are Tails (1)#In the OR-Game, Timmy Wins when either of the coin tosses is Tails(1)#In the NOT-Game, Timmy Wins when the first coin tosses is Tails(1) and the second coin toss is Heads(0).#In the Game Results below, Timmy wins when the result is “TRUE”#Question for the seven year-old: In which game does Timmy win most often, the AND-Game, the OR-Game, or the NOT-Game?##--- AND-Game
+#In the AND-Game, Timmy Wins when both coin tosses are Tails (1)#--- AND-Game Results# AND-Game Result 1, First Toss Tails(1), Second Toss Tails(1)1&1#AND-Game Result 2, First Toss Tails(1), Second Toss Heads(0)1&0#AND-Game Result 3, First Toss Heads(0), Second Toss Tails(1)0&1#AND-Game Result 4, First Toss Heads(0), Second Toss Heads(0)0&0##--- QUESTIONS about AND-Game Results#How many Results above were True (Timmy Wins)?#How many Results above were False (Timmy Loses)?##--- OR-Game#In the OR-Game, Timmy Wins when either of the coin tosses is Tails(1)#--- OR-Game Results#OR-Game Result 1, First Toss Tails(1), Second Toss Tails(1)1|1#OR-Game Result 2, First Toss Tails(1), Second Toss Heads(0)1|0#OR-Game Result 3, First Toss Heads(0), Second Toss Tails(1)0|1#OR-Game Result 4, First Toss Heads(0), Second Toss Heads(0)0|0##--- QUESTIONS about OR-Game Results#How many Results above were True (Timmy Wins)?#How many Results above were False (Timmy Loses)?##---NOT-Game#In the NOT-
+Game, Timmy Wins when the first coin tosses is Tails(1) and the second coin toss is Heads(0).#--- NOT-Game Results#NOT-Game Result 1, First Toss Tails(1), Second Toss Tails(1)1&!1#NOT-Game Result 2, First Toss Tails(1), Second Toss Heads(0)1&!0#NOT-Game Result 3, First Toss Heads(0), Second Toss Tails(1)0&!1#NOT-Game Result 4, First Toss Heads(0), Second Toss Heads(0)0&!0#--- QUESTIONS about NOT-Game Results#How many Results above were True (Timmy Wins)?#How many Results above were False (Timmy Loses)?##--- QUESTIONS about ALL Game Results#In which game does Timmy win most often?#   the AND-Game?#   the OR-Game? or #   the NOT-Game?
+# IST 687# Fall 2014# Activity 1: Boolean Logic# Submitted by Bret Costain# Due September 7, 2014 # Instructions: Write a piece of R code that you could use to teach a seven-year-old child about Boolean logic. # If you have never encountered Boolean logic before (sometimes it is called Boolean algebra), you will have to look it up to discover the three essential operations (AND, OR, NOT) and how they work. # In addition, you will have to discover the “operators” (i.e., the special punctuation marks) that R uses to represent Boolean operations.## Learning Goals for this activity:# A. Making sure that you have R running properly on your computer.# B. Familiarity with the command line (console) interface of R.# C. Understanding of the foundation of “conditionals” in programming: Boolean logic/algebra.# D. Developing informative commenting practices. ## Note: For the purpose of this activity, NOT was assumed to be the AND NOT function.## EXPLANATION for a seven year-old as follows:# Bo
+olean logic is named after George Boole, a mathematician who lived in the nineteenth-century. # In Boolean logic all values either TRUE or FALSE.# TRUE can also be represented by the number 1.# FALSE can also be represented by the number 0.# To illustrate the use of Boolean logic let’s look at a game were a coin is tossed twice and this is repeated four times in each game.# Imaging a boy name Timmy is flipping a coin over and over.  # The results of the coin toss can be Tails or Heads.  # On the Tails side of the coin is the Number 1.  # On the Heads side of the coin is the Number 0.# In the AND-Game, Timmy Wins when both coin tosses are Tails (1)# In the OR-Game, Timmy Wins when either of the coin tosses is Tails(1)# In the NOT-Game, Timmy Wins when the first coin tosses is Tails(1) and the second coin toss is Heads(0).# In the Game Results below, Timmy wins when the result is “TRUE”# Question for the seven year-old: In which game does Timmy win most often, the AND-Game, the OR-Game, or
+the NOT-Game?##--- AND-Game# In the AND-Game, Timmy Wins when both coin tosses are Tails (1)#--- AND-Game Results# AND-Game Result 1, First Toss Tails(1), Second Toss Tails(1)1&1# AND-Game Result 2, First Toss Tails(1), Second Toss Heads(0)1&0# AND-Game Result 3, First Toss Heads(0), Second Toss Tails(1)0&1# AND-Game Result 4, First Toss Heads(0), Second Toss Heads(0)0&0##--- QUESTIONS about AND-Game Results# How many Results above were True (Timmy Wins)?# How many Results above were False (Timmy Loses)?##--- OR-Game# In the OR-Game, Timmy Wins when either of the coin tosses is Tails(1)#--- OR-Game Results# OR-Game Result 1, First Toss Tails(1), Second Toss Tails(1)1|1# OR-Game Result 2, First Toss Tails(1), Second Toss Heads(0)1|0# OR-Game Result 3, First Toss Heads(0), Second Toss Tails(1)0|1# OR-Game Result 4, First Toss Heads(0), Second Toss Heads(0)0|0##--- QUESTIONS about OR-Game Results# How many Results above were True (Timmy Wins)?# How many Results above were False
+(Timmy Loses)?##---NOT-Game# In the NOT-Game, Timmy Wins when the first coin tosses is Tails(1) and the second coin toss is Heads(0).#--- NOT-Game Results# NOT-Game Result 1, First Toss Tails(1), Second Toss Tails(1)1&!1# NOT-Game Result 2, First Toss Tails(1), Second Toss Heads(0)1&!0# NOT-Game Result 3, First Toss Heads(0), Second Toss Tails(1)0&!1# NOT-Game Result 4, First Toss Heads(0), Second Toss Heads(0)0&!0#--- QUESTIONS about NOT-Game Results# How many Results above were True (Timmy Wins)?# How many Results above were False (Timmy Loses)?##--- QUESTIONS about ALL Game Results# In which game does Timmy win most often?#   the AND-Game?#   the OR-Game? or #   the NOT-Game?
+# IST 687# Fall 2014# Activity 1: Boolean Logic# Submitted by Bret Costain# Due September 7, 2014 # Instructions: Write a piece of R code that you could use to teach a seven-year-old child about Boolean logic. # If you have never encountered Boolean logic before (sometimes it is called Boolean algebra), you will have to look it up to discover the three essential operations (AND, OR, NOT) and how they work. # In addition, you will have to discover the “operators” (i.e., the special punctuation marks) that R uses to represent Boolean operations.## Learning Goals for this activity:# A. Making sure that you have R running properly on your computer.# B. Familiarity with the command line (console) interface of R.# C. Understanding of the foundation of “conditionals” in programming: Boolean logic/algebra.# D. Developing informative commenting practices. ## Note: For the purpose of this Activity, NOT was assumed to be the AND NOT function.## EXPLANATION for a seven year-old as follows:# Bo
+olean logic is named after George Boole, a mathematician who lived in the nineteenth-century. # In Boolean logic all values either TRUE or FALSE.# TRUE can also be represented by the number 1.# FALSE can also be represented by the number 0.# To illustrate the use of Boolean logic let’s look at a game were a coin is tossed twice and this is repeated four times in each game.# Imaging a boy name Timmy is flipping a coin over and over.  # The results of the coin toss can be Tails or Heads.  # On the Tails side of the coin is the Number 1.  # On the Heads side of the coin is the Number 0.# In the AND-Game, Timmy Wins when both coin tosses are Tails(1)# In the OR-Game, Timmy Wins when either of the coin tosses is Tails(1)# In the NOT-Game, Timmy Wins when the first coin tosses is Tails(1) and the second coin toss is Heads(0).# In the Game Results below, Timmy wins when the result is “TRUE”# Question for the seven year-old: In which game does Timmy win most often, the AND-Game, the OR-Game, or t
+he NOT-Game?##--- AND-Game# In the AND-Game, Timmy Wins when both coin tosses are Tails (1)#--- AND-Game Results# AND-Game Result 1, First Toss Tails(1), Second Toss Tails(1)1&1# AND-Game Result 2, First Toss Tails(1), Second Toss Heads(0)1&0# AND-Game Result 3, First Toss Heads(0), Second Toss Tails(1)0&1# AND-Game Result 4, First Toss Heads(0), Second Toss Heads(0)0&0##--- QUESTIONS about AND-Game Results# How many Results above were True (Timmy Wins)?# How many Results above were False (Timmy Loses)?##--- OR-Game# In the OR-Game, Timmy Wins when either of the coin tosses is Tails(1)#--- OR-Game Results# OR-Game Result 1, First Toss Tails(1), Second Toss Tails(1)1|1# OR-Game Result 2, First Toss Tails(1), Second Toss Heads(0)1|0# OR-Game Result 3, First Toss Heads(0), Second Toss Tails(1)0|1# OR-Game Result 4, First Toss Heads(0), Second Toss Heads(0)0|0##--- QUESTIONS about OR-Game Results# How many Results above were True (Timmy Wins)?# How many Results above were False (
+Timmy Loses)?##--- NOT-Game# In the NOT-Game, Timmy Wins when the first coin tosses is Tails(1) and the second coin toss is Heads(0).#--- NOT-Game Results# NOT-Game Result 1, First Toss Tails(1), Second Toss Tails(1)1&!1# NOT-Game Result 2, First Toss Tails(1), Second Toss Heads(0)1&!0# NOT-Game Result 3, First Toss Heads(0), Second Toss Tails(1)0&!1# NOT-Game Result 4, First Toss Heads(0), Second Toss Heads(0)0&!0#--- QUESTIONS about NOT-Game Results# How many Results above were True (Timmy Wins)?# How many Results above were False (Timmy Loses)?##--- QUESTIONS about ALL Game Results# In which game does Timmy win most often?#   the AND-Game?#   the OR-Game? or #   the NOT-Game?
+#Bret Costain#IST687 - Exercise 1: Boolean Logic# Fall 2014# Due September 7, 2014 # Instructions: Write a piece of R code that you could use to teach a seven-year-old child about Boolean logic. # If you have never encountered Boolean logic before (sometimes it is called Boolean algebra), you will have to look it up to discover the three essential operations (AND, OR, NOT) and how they work. # In addition, you will have to discover the “operators” (i.e., the special punctuation marks) that R uses to represent Boolean operations.## Learning Goals for this activity:# A. Making sure that you have R running properly on your computer.# B. Familiarity with the command line (console) interface of R.# C. Understanding of the foundation of “conditionals” in programming: Boolean logic/algebra.# D. Developing informative commenting practices. ## Note: For the purpose of this Activity, NOT was assumed to be the AND NOT function.## EXPLANATION for a seven year-old as follows:# Boolean logic is n
+amed after George Boole, a mathematician who lived in the nineteenth-century. # In Boolean logic all values either TRUE or FALSE.# TRUE can also be represented by the number 1.# FALSE can also be represented by the number 0.# To illustrate the use of Boolean logic let’s look at a game were a coin is tossed twice and this is repeated four times in each game.# Imaging a boy name Timmy is flipping a coin over and over.  # The results of the coin toss can be Tails or Heads.  # On the Tails side of the coin is the Number 1.  # On the Heads side of the coin is the Number 0.# In the AND-Game, Timmy Wins when both coin tosses are Tails(1)# In the OR-Game, Timmy Wins when either of the coin tosses is Tails(1)# In the NOT-Game, Timmy Wins when the first coin tosses is Tails(1) and the second coin toss is Heads(0).# In the Game Results below, Timmy wins when the result is “TRUE”# Question for the seven year-old: In which game does Timmy win most often, the AND-Game, the OR-Game, or the NOT-Game?##
+--- AND-Game# In the AND-Game, Timmy Wins when both coin tosses are Tails (1)#--- AND-Game Results# AND-Game Result 1, First Toss Tails(1), Second Toss Tails(1)1&1# AND-Game Result 2, First Toss Tails(1), Second Toss Heads(0)1&0# AND-Game Result 3, First Toss Heads(0), Second Toss Tails(1)0&1# AND-Game Result 4, First Toss Heads(0), Second Toss Heads(0)0&0##--- QUESTIONS about AND-Game Results# How many Results above were True (Timmy Wins)?# How many Results above were False (Timmy Loses)?##--- OR-Game# In the OR-Game, Timmy Wins when either of the coin tosses is Tails(1)#--- OR-Game Results# OR-Game Result 1, First Toss Tails(1), Second Toss Tails(1)1|1# OR-Game Result 2, First Toss Tails(1), Second Toss Heads(0)1|0# OR-Game Result 3, First Toss Heads(0), Second Toss Tails(1)0|1# OR-Game Result 4, First Toss Heads(0), Second Toss Heads(0)0|0##--- QUESTIONS about OR-Game Results# How many Results above were True (Timmy Wins)?# How many Results above were False (Timmy Loses)?#
+#--- NOT-Game# In the NOT-Game, Timmy Wins when the first coin tosses is Tails(1) and the second coin toss is Heads(0).#--- NOT-Game Results# NOT-Game Result 1, First Toss Tails(1), Second Toss Tails(1)1&!1# NOT-Game Result 2, First Toss Tails(1), Second Toss Heads(0)1&!0# NOT-Game Result 3, First Toss Heads(0), Second Toss Tails(1)0&!1# NOT-Game Result 4, First Toss Heads(0), Second Toss Heads(0)0&!0#--- QUESTIONS about NOT-Game Results# How many Results above were True (Timmy Wins)?# How many Results above were False (Timmy Loses)?##--- QUESTIONS about ALL Game Results# In which game does Timmy win most often?#   the AND-Game?#   the OR-Game? or #   the NOT-Game?##CONCLUSIONS# The OR-Game produces the most Wins because it only requires one Tails from either coin toss which occurs in three of the four cases.
+# Bret Costain# IST687 - Exercise 2: Data Frames# Fall 2014# Due September 21, 2014 # Instructions#
+# Gather some basic “demographic” information from about five friends or family members, and then enter those data into a data frame using the appropriate R commands.#
+# Finally, summarize the contents of the data frame, again using the appropriate R commands. #
+# Keep the demographics “light”  to avoid getting too personal: For each person report #
+# 1) the number of pets that they have (dogs, cats, etc.); #
+# 2) their birth order in their family (i.e., 1 for first born, etc.); and #
+# 3) the number of siblings they have.  #
+##
+# Key task: Collect the necessary data from your friends and family members, write, test, and submit the necessary code in R to accomplish the following:#
+# 1. Create three vectors of integers as described above, using the c( ) (concatenate) command to store data reported by group members, with these variable names: Pets, Order, and Siblings.#
+# 2. Also create a vector of user IDs for the friends and family members.#
+# 3. Bind those four vectors together into a data frame called myFriends.#
+# 4. Use the appropriate R command to report the structure of your data frame as well as a summary of the data (with minimums, means, maximums, etc. as shown on page 32. The result should show, “X obs. Of 4 variables,” where X is the number of friends and family members who reported their data.#
+# 5. Use the $ notation explained on page 33 to list all of the values for each of the variables in the myFriends data frame (example myGroup$Pets).## Learning Goals for this activity:#
+# A. Create vectors of integers using the c( ) (concatenate) command.#
+# B. Bind vectors together into a data frame. #
+# C. Use the appropriate R command to report the structure of a data frame and summarize data.#
+# D. Use of the $ notation to list values of variables.##
+# Steps 1 and 2: Create Vectors#
+userID <-c( “Martha”, “Tom”, “Marc”, “Bob”, “Rachel”) # userID Vectors#
+Pets <- (0, 0, 2, 0, 2) 								# Pets Vectos#
+Order <- (1, 2, 1, 2, 2) 								# Order Vector#
+Siblings <-(7, 3, 1, 1, 2) 							# Siblings Vector#
+# Step 3: Bind Vectors together in data frame#
+myFriends <- data.frame(ID, Pets, Order, Siblings)		# MyFriends data frame#
+# Step 4: Report dataframe structure and summary
+# Bret Costain#
+# IST687 - Exercise 2: Data Frames#
+# Fall 2014#
+# Due September 21, 2014 #
+# Instructions#
+# Gather some basic “demographic” information from about five friends or family members, and then enter those data into a data frame using the appropriate R commands.#
+# Finally, summarize the contents of the data frame, again using the appropriate R commands. #
+# Keep the demographics “light”  to avoid getting too personal: For each person report #
+# 1) the number of pets that they have (dogs, cats, etc.); #
+# 2) their birth order in their family (i.e., 1 for first born, etc.); and #
+# 3) the number of siblings they have.  #
+##
+# Key task: Collect the necessary data from your friends and family members, write, test, and submit the necessary code in R to accomplish the following:#
+# 1. Create three vectors of integers as described above, using the c( ) (concatenate) command to store data reported by group members, with these variable names: Pets, Order, and Siblings.#
+# 2. Also create a vector of user IDs for the friends and family members.#
+# 3. Bind those four vectors together into a data frame called myFriends.#
+# 4. Use the appropriate R command to report the structure of your data frame as well as a summary of the data (with minimums, means, maximums, etc. as shown on page 32. The result should show, “X obs. Of 4 variables,” where X is the number of friends and family members who reported their data.#
+# 5. Use the $ notation explained on page 33 to list all of the values for each of the variables in the myFriends data frame (example myGroup$Pets).#
+##
+# Learning Goals for this activity:#
+# A. Create vectors of integers using the c( ) (concatenate) command.#
+# B. Bind vectors together into a data frame. #
+# C. Use the appropriate R command to report the structure of a data frame and summarize data.#
+# D. Use of the $ notation to list values of variables.#
+##
+# Steps 1 and 2: Create Vectors#
+userID <-c( “Martha”, “Tom”, “Marc”, “Bob”, “Rachel”) # userID Vectors#
+Pets <- (0, 0, 2, 0, 2) 								# Pets Vectos#
+Order <- (1, 2, 1, 2, 2) 								# Order Vector#
+Siblings <-(7, 3, 1, 1, 2) 							# Siblings Vector#
+# Step 3: Bind Vectors together in data frame#
+myFriends <- data.frame(ID, Pets, Order, Siblings)		# MyFriends data frame#
+# Step 4: Report dataframe structure and summary
+userID <-c("Martha", "Tom", "Marc", "Bob", "Rachel") 	# userID Vectors#
+Pets <- (0,0,2,0,2) 									# Pets Vectos#
+Order <- (1,2,1,2,2) 									# Order Vector#
+Siblings <-(7,3,1,1,2) 									# Siblings Vector
+userID <-c("Martha", "Tom", "Marc", "Bob", "Rachel") 	# userID Vectors#
+Pets <- c(0,0,2,0,2) 									# Pets Vectos#
+Order <- c(1,2,1,2,2) 									# Order Vector#
+Siblings <- c(7,3,1,1,2) 									# Siblings Vector
+myFriends <- data.frame(userID,Pets,Order,Siblings)		# MyFriends data frame
+str(myFriends)
+summary(myFriends)
+# Steps 1 and 2: Create Vectors#
+userID <-c("Martha", "Tom", "Marc", "Bob", "Rachel") 	# userID Vectors#
+Pets <- c(0,0,2,0,2) 									# Pets Vectos#
+Order <- c(1,2,1,2,2) 									# Order Vector#
+Siblings <- c(7,3,1,1,2) 									# Siblings Vector#
+# Step 3: Bind Vectors together in data frame#
+myFriends <- data.frame(userID,Pets,Order,Siblings)		# MyFriends data frame#
+# Step 4: Report dataframe structure and summary#
+# Structure#
+str(myFriends)#
+# Summary#
+summary(myFriends)
+# Bret Costain#
+# IST687 - Exercise 2: Data Frames#
+# Fall 2014#
+# Due September 21, 2014 #
+# Instructions#
+# Gather some basic “demographic” information from about five friends or family members, and then enter those data into a data frame using the appropriate R commands.#
+# Finally, summarize the contents of the data frame, again using the appropriate R commands. #
+# Keep the demographics “light”  to avoid getting too personal: For each person report #
+# 1) the number of pets that they have (dogs, cats, etc.); #
+# 2) their birth order in their family (i.e., 1 for first born, etc.); and #
+# 3) the number of siblings they have.  #
+##
+# Key task: Collect the necessary data from your friends and family members, write, test, and submit the necessary code in R to accomplish the following:#
+# 1. Create three vectors of integers as described above, using the c( ) (concatenate) command to store data reported by group members, with these variable names: Pets, Order, and Siblings.#
+# 2. Also create a vector of user IDs for the friends and family members.#
+# 3. Bind those four vectors together into a data frame called myFriends.#
+# 4. Use the appropriate R command to report the structure of your data frame as well as a summary of the data (with minimums, means, maximums, etc. as shown on page 32. The result should show, “X obs. Of 4 variables,” where X is the number of friends and family members who reported their data.#
+# 5. Use the $ notation explained on page 33 to list all of the values for each of the variables in the myFriends data frame (example myGroup$Pets).#
+##
+# Learning Goals for this activity:#
+# A. Create vectors of integers using the c( ) (concatenate) command.#
+# B. Bind vectors together into a data frame. #
+# C. Use the appropriate R command to report the structure of a data frame and summarize data.#
+# D. Use of the $ notation to list values of variables.#
+##
+# Steps 1 and 2: Create Vectors#
+# userID Vector#
+userID <-c("Martha", "Tom", "Marc", "Bob", "Rachel") 	#
+# Pets Vector#
+Pets <- c(0,0,2,0,2) #
+# Order Vector									#
+Order <- c(1,2,1,2,2) 									#
+# Siblings Vector#
+Siblings <- c(7,3,1,1,2) 									#
+# Step 3: Bind Vectors together in data frame#
+# MyFriends data frame#
+myFriends <- data.frame(userID,Pets,Order,Siblings)		#
+# Step 4: Report dataframe structure and summary#
+# Structure#
+str(myFriends)#
+# Summary#
+summary(myFriends)
+myFriends$userID
+# Step 5: Use $ notation to list all vlue for each variable#
+# List all values for user ID#
+myFriends$userID#
+# List all values for Pets#
+myFriends$Pets#
+# List all values for Order#
+myFriends$Order#
+# List all values for Siblings#
+myFriends$Siblings
+# Bret Costain#
+# IST687 - Exercise 2: Data Frames#
+# Fall 2014#
+# Due September 21, 2014 #
+# Instructions#
+# Gather some basic “demographic” information from about five friends or family members, and then enter those data into a data frame using the appropriate R commands.#
+# Finally, summarize the contents of the data frame, again using the appropriate R commands. #
+# Keep the demographics “light”  to avoid getting too personal: For each person report #
+# 1) the number of pets that they have (dogs, cats, etc.); #
+# 2) their birth order in their family (i.e., 1 for first born, etc.); and #
+# 3) the number of siblings they have.  #
+##
+# Key task: Collect the necessary data from your friends and family members, write, test, and submit the necessary code in R to accomplish the following:#
+# Step 1. Create three vectors of integers as described above, using the c( ) (concatenate) command to store data reported by group members, with these variable names: Pets, Order, and Siblings.#
+# Step 2. Also create a vector of user IDs for the friends and family members.#
+# Step 3. Bind those four vectors together into a data frame called myFriends.#
+# Step 4. Use the appropriate R command to report the structure of your data frame as well as a summary of the data (with minimums, means, maximums, etc. as shown on page 32. The result should show, “X obs. Of 4 variables,” where X is the number of friends and family members who reported their data.#
+# Step 5. Use the $ notation explained on page 33 to list all of the values for each of the variables in the myFriends data frame (example myGroup$Pets).#
+##
+# Learning Goals for this activity:#
+# A. Create vectors of integers using the c( ) (concatenate) command.#
+# B. Bind vectors together into a data frame. #
+# C. Use the appropriate R command to report the structure of a data frame and summarize data.#
+# D. Use of the $ notation to list values of variables.#
+##
+#BEGIN#
+# STEPS 1 and 2: Create Vectors#
+# userID Vector#
+userID <-c("Martha", "Tom", "Marc", "Bob", "Rachel") 	#
+# Pets Vector#
+Pets <- c(0,0,2,0,2) #
+# Order Vector									#
+Order <- c(1,2,1,2,2) 									#
+# Siblings Vector#
+Siblings <- c(7,3,1,1,2) 									#
+# STEP 3: Bind Vectors together in data frame#
+# MyFriends data frame#
+myFriends <- data.frame(userID,Pets,Order,Siblings)		#
+# STEP 4: Report dataframe structure and summary#
+# Structure#
+str(myFriends)#
+# Summary#
+summary(myFriends)#
+# STEP 5: Use $ notation to list all vlue for each variable#
+# List all values for user ID#
+myFriends$userID#
+# List all values for Pets#
+myFriends$Pets#
+# List all values for Order#
+myFriends$Order#
+# List all values for Siblings#
+myFriends$Siblings#
+# END
+2/1
+3/4
+n <- c(1)
+d <-- (5)
+n/d
+d/n
+n*d
+n
+d
+d <- (5)
+d
+d/n
+n/d
+mtcars
+mtcars$disp/mtcars$cyl
+my_mtcars <- mtcars  # Copy original dataframe into a new one
+my_mtcars$disp/my_mtcars$cyl
+mt)mtcars$cyldisp <- my_mtcars$disp/my_mtcars$cyl
+my_mtcars$cyldisp <- my_mtcars$disp/my_mtcars$cyl
+my_mtcars
+#BEGIN#
+# Install VGAM Package for generating random numbers in a Pareto distribution #
+ install.packages("VGAM")#
+ library("VGAM", lib.loc="/Library/Frameworks/R.framework/Versions/3.1/Resources/library")#
+# STEP 1. Generate 51 random numbers in a Pareto distribution and assign them to a variable called “FSApops.”#
+# STEP 2. Specify a “location” and a “shape” for your Pareto distribution that makes it as similar as possible to the actual distribution of state populations on page 44 of the textbook.#
+# STEP 3. Create a histogram that shows the distribution of values in FSApops.#
+# STEP 4. Use a command to report the actual mean and the actual standard deviation of the 51 values stored in FSApops.#
+# STEP 5.  Use a command to report the population of your largest fictional state (i.e., your California) and your smallest fictional state (i.e., your Wyoming).#
+# END
+FSApops <- rpareto(51,1,1)
+FSApops
+MyLocation <- 1#
+MyShape <- 1#
+FSApops <- rpareto(51,MyLocation,MyShape)
+FSApops
+min(FSApops)
+max(FSApops)
+hist(FSApops, breaks=20)
+# Bret Costain#
+# IST687 – Exercise 4: Generate Distributions#
+# Fall 2014#
+# Due September 28, 2014 #
+##
+# Instructions#
+# A key focus of Chapter 6 of “An Introduction to Data Science,” is “distributions.” A distribution is simply an arrangement of values of a variable such as the population size of a state. #
+# A distribution can either be empirical, which means that it is an actual bunch of numbers, or it can be theoretical, in which case we are just imagining an ideal arrangement of numbers. #
+# The normal or “bell” curve is just such a theoretical distribution.# The R open source statistical system is great at creating empirical distributions that are made up of randomly generated numbers.#
+# In Chapter 6, the book includes several commands and explanations of randomly generated distributions. #
+# Chapter 6 decided that the distribution of the population sizes of states was “geometric” and while this is one possibility, a better choice would be the so-called “Pareto” distribution. #
+# We can use R to generate a Pareto distribution of state populations that may be quite similar to the populations of the actual U.S. states.#
+# In other words, we can generate random numbers for the sizes of the Fictional States of America.# Key task: Write, test, and submit the necessary code in R to accomplish the following:# 1. Generate 51 random numbers in a Pareto distribution and assign them to a variable called “FSApops.”# 2. Specify a “location” and a “shape” for your Pareto distribution that makes it as similar as possible to the actual distribution of state populations on page 44 of the textbook.# 3. Create a histogram that shows the distribution of values in FSApops.# 4. Use a command to report the actual mean and the actual standard deviation of the 51 values stored in FSApops.# 5.  Use a command to report the population of your largest fictional state (i.e., your California) and your smallest fictional state (i.e., your Wyoming).#
+##
+# Hints: #
+# The necessary R command for generating random numbers in a Pareto distribution is located in a “package” called “VGAM”. #
+# You will have to look ahead to Chapter 9 in the book to learn about how to install and activate this package. #
+# The code you submit should include the two necessary commands for making this happen (they should be the first two commands in your code).#
+# In the VGAM package, you will find a command for generating random numbers that fit a Pareto distribution. You will have to look up the meaning of the location and shape parameters so that you can figure out how to set them to make your Fictional States of America as similar to the real states as possible. #
+# Note that random numbers will differ substantially every time you run the command, so we don’t expect your data to be a perfect match. #
+# You do want your smallest state to be about the size of Wyoming and about 15 of your states to be under 2 million in population. #
+# #
+# Learning Goals for this activity:# A.	Generate random numbers in a Pareto distribution and assign a variable name.# B.	Specify a “location” and a “shape” for a distribution to conform to a model.# C.	Create a histogram depicting a distribution of values.# D.	Use R commands to report mean and standard deviation.# E.	Use appropriate R command to report the most extreme values of a variable.#
+##
+#BEGIN#
+# Install VGAM Package for generating random numbers in a Pareto distribution #
+ install.packages("VGAM")#
+ library("VGAM", lib.loc="/Library/Frameworks/R.framework/Versions/3.1/Resources/library")#
+# STEP 1. Generate 51 random numbers in a Pareto distribution and assign them to a variable called “FSApops.”#
+FSApops <- rpareto(51,1,1)#
+# STEP 2. Specify a “location” and a “shape” for your Pareto distribution that makes it as similar as possible to the actual distribution of state populations on page 44 of the textbook.#
+MyLocation <- 1#
+MyShape <- 1#
+FSApops <- rpareto(51,MyLocation,MyShape)#
+# STEP 3. Create a histogram that shows the distribution of values in FSApops.#
+hist(FSApops, breaks=20)#
+# STEP 4. Use a command to report the actual mean and the actual standard deviation of the 51 values stored in FSApops.#
+# Mean#
+mean(FSApops)#
+# Standard Deviation#
+sd(FSApops)#
+# STEP 5.  Use a command to report the population of your largest fictional state (i.e., your California) and your smallest fictional state (i.e., your Wyoming).#
+#Largest Population#
+Max(FSApops)#
+#Smallest Population#
+Min(FSApops)#
+# END
+min(FSApops)
+max(FSApops)
+# Bret Costain#
+# IST687 – Exercise 4: Generate Distributions#
+# Fall 2014#
+# Due September 28, 2014 #
+##
+# Instructions#
+# A key focus of Chapter 6 of “An Introduction to Data Science,” is “distributions.” A distribution is simply an arrangement of values of a variable such as the population size of a state. #
+# A distribution can either be empirical, which means that it is an actual bunch of numbers, or it can be theoretical, in which case we are just imagining an ideal arrangement of numbers. #
+# The normal or “bell” curve is just such a theoretical distribution.# The R open source statistical system is great at creating empirical distributions that are made up of randomly generated numbers.#
+# In Chapter 6, the book includes several commands and explanations of randomly generated distributions. #
+# Chapter 6 decided that the distribution of the population sizes of states was “geometric” and while this is one possibility, a better choice would be the so-called “Pareto” distribution. #
+# We can use R to generate a Pareto distribution of state populations that may be quite similar to the populations of the actual U.S. states.#
+# In other words, we can generate random numbers for the sizes of the Fictional States of America.# Key task: Write, test, and submit the necessary code in R to accomplish the following:# 1. Generate 51 random numbers in a Pareto distribution and assign them to a variable called “FSApops.”# 2. Specify a “location” and a “shape” for your Pareto distribution that makes it as similar as possible to the actual distribution of state populations on page 44 of the textbook.# 3. Create a histogram that shows the distribution of values in FSApops.# 4. Use a command to report the actual mean and the actual standard deviation of the 51 values stored in FSApops.# 5.  Use a command to report the population of your largest fictional state (i.e., your California) and your smallest fictional state (i.e., your Wyoming).#
+##
+# Hints: #
+# The necessary R command for generating random numbers in a Pareto distribution is located in a “package” called “VGAM”. #
+# You will have to look ahead to Chapter 9 in the book to learn about how to install and activate this package. #
+# The code you submit should include the two necessary commands for making this happen (they should be the first two commands in your code).#
+# In the VGAM package, you will find a command for generating random numbers that fit a Pareto distribution. You will have to look up the meaning of the location and shape parameters so that you can figure out how to set them to make your Fictional States of America as similar to the real states as possible. #
+# Note that random numbers will differ substantially every time you run the command, so we don’t expect your data to be a perfect match. #
+# You do want your smallest state to be about the size of Wyoming and about 15 of your states to be under 2 million in population. #
+# #
+# Learning Goals for this activity:# A.	Generate random numbers in a Pareto distribution and assign a variable name.# B.	Specify a “location” and a “shape” for a distribution to conform to a model.# C.	Create a histogram depicting a distribution of values.# D.	Use R commands to report mean and standard deviation.# E.	Use appropriate R command to report the most extreme values of a variable.#
+##
+#BEGIN#
+# Install VGAM Package for generating random numbers in a Pareto distribution #
+ install.packages("VGAM")#
+ library("VGAM", lib.loc="/Library/Frameworks/R.framework/Versions/3.1/Resources/library")#
+# STEP 1. Generate 51 random numbers in a Pareto distribution and assign them to a variable called “FSApops.”#
+FSApops <- rpareto(51,1,1)#
+# STEP 2. Specify a “location” and a “shape” for your Pareto distribution that makes it as similar as possible to the actual distribution of state populations on page 44 of the textbook.#
+MyLocation <- 1#
+MyShape <- 1#
+FSApops <- rpareto(51,MyLocation,MyShape)#
+# STEP 3. Create a histogram that shows the distribution of values in FSApops.#
+hist(FSApops, breaks=20)#
+# STEP 4. Use a command to report the actual mean and the actual standard deviation of the 51 values stored in FSApops.#
+# Mean#
+mean(FSApops)#
+# Standard Deviation#
+sd(FSApops)#
+# STEP 5.  Use a command to report the population of your largest fictional state (i.e., your California) and your smallest fictional state (i.e., your Wyoming).#
+#Largest Population#
+max(FSApops)#
+#Smallest Population#
+min(FSApops)#
+# END
+#BEGIN#
+# Install VGAM Package for generating random numbers in a Pareto distribution #
+ install.packages("VGAM")#
+ library("VGAM", lib.loc="/Library/Frameworks/R.framework/Versions/3.1/Resources/library")#
+# STEP 1. Generate 51 random numbers in a Pareto distribution and assign them to a variable called “FSApops.”#
+FSApops <- rpareto(51,1,1)#
+# STEP 2. Specify a “location” and a “shape” for your Pareto distribution that makes it as similar as possible to the actual distribution of state populations on page 44 of the textbook.#
+MyLocation <- 1#
+MyShape <- 2#
+FSApops <- rpareto(51,MyLocation,MyShape)#
+# STEP 3. Create a histogram that shows the distribution of values in FSApops.#
+hist(FSApops, breaks=20)#
+# STEP 4. Use a command to report the actual mean and the actual standard deviation of the 51 values stored in FSApops.#
+# Mean#
+mean(FSApops)#
+# Standard Deviation#
+sd(FSApops)#
+# STEP 5.  Use a command to report the population of your largest fictional state (i.e., your California) and your smallest fictional state (i.e., your Wyoming).#
+# Largest Population#
+max(FSApops)#
+# Smallest Population#
+min(FSApops)#
+# END
+#BEGIN#
+# Install VGAM Package for generating random numbers in a Pareto distribution #
+ install.packages("VGAM")#
+ library("VGAM", lib.loc="/Library/Frameworks/R.framework/Versions/3.1/Resources/library")#
+# STEP 1. Generate 51 random numbers in a Pareto distribution and assign them to a variable called “FSApops.”#
+FSApops <- rpareto(51,1,1)#
+# STEP 2. Specify a “location” and a “shape” for your Pareto distribution that makes it as similar as possible to the actual distribution of state populations on page 44 of the textbook.#
+MyLocation <- 1#
+MyShape <- 3#
+FSApops <- rpareto(51,MyLocation,MyShape)#
+# STEP 3. Create a histogram that shows the distribution of values in FSApops.#
+hist(FSApops, breaks=20)#
+# STEP 4. Use a command to report the actual mean and the actual standard deviation of the 51 values stored in FSApops.#
+# Mean#
+mean(FSApops)#
+# Standard Deviation#
+sd(FSApops)#
+# STEP 5.  Use a command to report the population of your largest fictional state (i.e., your California) and your smallest fictional state (i.e., your Wyoming).#
+# Largest Population#
+max(FSApops)#
+# Smallest Population#
+min(FSApops)#
+# END
+#BEGIN#
+# Install VGAM Package for generating random numbers in a Pareto distribution #
+ install.packages("VGAM")#
+ library("VGAM", lib.loc="/Library/Frameworks/R.framework/Versions/3.1/Resources/library")#
+# STEP 1. Generate 51 random numbers in a Pareto distribution and assign them to a variable called “FSApops.”#
+FSApops <- rpareto(51,1,1)#
+# STEP 2. Specify a “location” and a “shape” for your Pareto distribution that makes it as similar as possible to the actual distribution of state populations on page 44 of the textbook.#
+MyLocation <- 2#
+MyShape <- 3#
+FSApops <- rpareto(51,MyLocation,MyShape)#
+# STEP 3. Create a histogram that shows the distribution of values in FSApops.#
+hist(FSApops, breaks=20)#
+# STEP 4. Use a command to report the actual mean and the actual standard deviation of the 51 values stored in FSApops.#
+# Mean#
+mean(FSApops)#
+# Standard Deviation#
+sd(FSApops)#
+# STEP 5.  Use a command to report the population of your largest fictional state (i.e., your California) and your smallest fictional state (i.e., your Wyoming).#
+# Largest Population#
+max(FSApops)#
+# Smallest Population#
+min(FSApops)#
+# END
+#BEGIN#
+# Install VGAM Package for generating random numbers in a Pareto distribution #
+ install.packages("VGAM")#
+ library("VGAM", lib.loc="/Library/Frameworks/R.framework/Versions/3.1/Resources/library")#
+# STEP 1. Generate 51 random numbers in a Pareto distribution and assign them to a variable called “FSApops.”#
+FSApops <- rpareto(51,1,1)#
+# STEP 2. Specify a “location” and a “shape” for your Pareto distribution that makes it as similar as possible to the actual distribution of state populations on page 44 of the textbook.#
+MyLocation <- 2#
+MyShape <- 2#
+FSApops <- rpareto(51,MyLocation,MyShape)#
+# STEP 3. Create a histogram that shows the distribution of values in FSApops.#
+hist(FSApops, breaks=20)#
+# STEP 4. Use a command to report the actual mean and the actual standard deviation of the 51 values stored in FSApops.#
+# Mean#
+mean(FSApops)#
+# Standard Deviation#
+sd(FSApops)#
+# STEP 5.  Use a command to report the population of your largest fictional state (i.e., your California) and your smallest fictional state (i.e., your Wyoming).#
+# Largest Population#
+max(FSApops)#
+# Smallest Population#
+min(FSApops)#
+# END
+#BEGIN#
+# Install VGAM Package for generating random numbers in a Pareto distribution #
+ install.packages("VGAM")#
+ library("VGAM", lib.loc="/Library/Frameworks/R.framework/Versions/3.1/Resources/library")#
+# STEP 1. Generate 51 random numbers in a Pareto distribution and assign them to a variable called “FSApops.”#
+FSApops <- rpareto(51,1,1)#
+# STEP 2. Specify a “location” and a “shape” for your Pareto distribution that makes it as similar as possible to the actual distribution of state populations on page 44 of the textbook.#
+MyLocation <- 2#
+MyShape <- 3#
+FSApops <- rpareto(51,MyLocation,MyShape)#
+# STEP 3. Create a histogram that shows the distribution of values in FSApops.#
+hist(FSApops, breaks=20)#
+# STEP 4. Use a command to report the actual mean and the actual standard deviation of the 51 values stored in FSApops.#
+# Mean#
+mean(FSApops)#
+# Standard Deviation#
+sd(FSApops)#
+# STEP 5.  Use a command to report the population of your largest fictional state (i.e., your California) and your smallest fictional state (i.e., your Wyoming).#
+# Largest Population#
+max(FSApops)#
+# Smallest Population#
+min(FSApops)#
+# END
+# Bret Costain#
+# IST687 – Exercise 4: Generate Distributions#
+# Fall 2014#
+# Due September 28, 2014 #
+##
+# Instructions#
+# A key focus of Chapter 6 of “An Introduction to Data Science,” is “distributions.” A distribution is simply an arrangement of values of a variable such as the population size of a state. #
+# A distribution can either be empirical, which means that it is an actual bunch of numbers, or it can be theoretical, in which case we are just imagining an ideal arrangement of numbers. #
+# The normal or “bell” curve is just such a theoretical distribution.# The R open source statistical system is great at creating empirical distributions that are made up of randomly generated numbers.#
+# In Chapter 6, the book includes several commands and explanations of randomly generated distributions. #
+# Chapter 6 decided that the distribution of the population sizes of states was “geometric” and while this is one possibility, a better choice would be the so-called “Pareto” distribution. #
+# We can use R to generate a Pareto distribution of state populations that may be quite similar to the populations of the actual U.S. states.#
+# In other words, we can generate random numbers for the sizes of the Fictional States of America.# Key task: Write, test, and submit the necessary code in R to accomplish the following:# 1. Generate 51 random numbers in a Pareto distribution and assign them to a variable called “FSApops.”# 2. Specify a “location” and a “shape” for your Pareto distribution that makes it as similar as possible to the actual distribution of state populations on page 44 of the textbook.# 3. Create a histogram that shows the distribution of values in FSApops.# 4. Use a command to report the actual mean and the actual standard deviation of the 51 values stored in FSApops.# 5. Use a command to report the population of your largest fictional state (i.e., your California) and your smallest fictional state (i.e., your Wyoming).#
+##
+# Hints: #
+# The necessary R command for generating random numbers in a Pareto distribution is located in a “package” called “VGAM”. #
+# You will have to look ahead to Chapter 9 in the book to learn about how to install and activate this package. #
+# The code you submit should include the two necessary commands for making this happen (they should be the first two commands in your code).#
+# In the VGAM package, you will find a command for generating random numbers that fit a Pareto distribution. You will have to look up the meaning of the location and shape parameters so that you can figure out how to set them to make your Fictional States of America as similar to the real states as possible. #
+# Note that random numbers will differ substantially every time you run the command, so we don’t expect your data to be a perfect match. #
+# You do want your smallest state to be about the size of Wyoming and about 15 of your states to be under 2 million in population. #
+# #
+# Learning Goals for this activity:# A.	Generate random numbers in a Pareto distribution and assign a variable name.# B.	Specify a “location” and a “shape” for a distribution to conform to a model.# C.	Create a histogram depicting a distribution of values.# D.	Use R commands to report mean and standard deviation.# E.	Use appropriate R command to report the most extreme values of a variable.#
+##
+#BEGIN#
+# Install VGAM Package for generating random numbers in a Pareto distribution #
+ install.packages("VGAM")#
+ library("VGAM", lib.loc="/Library/Frameworks/R.framework/Versions/3.1/Resources/library")#
+# STEP 1. Generate 51 random numbers in a Pareto distribution and assign them to a variable called “FSApops.”#
+FSApops <- rpareto(51,1,1)#
+# Disply 51 Random Numbers#
+FSApops#
+# STEP 2. Specify a “location” and a “shape” for your Pareto distribution that makes it as similar as possible to the actual distribution of state populations on page 44 of the textbook.#
+MyLocation <- 2#
+MyShape <- 3#
+FSApops <- rpareto(51,MyLocation,MyShape)#
+# Disply 51 Random Numbers with new location and shape#
+FSApops#
+# STEP 3. Create a histogram that shows the distribution of values in FSApops.#
+hist(FSApops, breaks=20)#
+# STEP 4. Use a command to report the actual mean and the actual standard deviation of the 51 values stored in FSApops.#
+# Mean#
+mean(FSApops)#
+# Standard Deviation#
+sd(FSApops)#
+# STEP 5.  Use a command to report the population of your largest fictional state (i.e., your California) and your smallest fictional state (i.e., your Wyoming).#
+# Largest Population#
+max(FSApops)#
+# Smallest Population#
+min(FSApops)#
+# END
+# Bret Costain#
+# IST687 – Exercise 4: Generate Distributions#
+# Fall 2014#
+# Due September 28, 2014 #
+##
+# Instructions#
+# A key focus of Chapter 6 of “An Introduction to Data Science,” is “distributions.” A distribution is simply an arrangement of values of a variable such as the population size of a state. #
+# A distribution can either be empirical, which means that it is an actual bunch of numbers, or it can be theoretical, in which case we are just imagining an ideal arrangement of numbers. #
+# The normal or “bell” curve is just such a theoretical distribution.# The R open source statistical system is great at creating empirical distributions that are made up of randomly generated numbers.#
+# In Chapter 6, the book includes several commands and explanations of randomly generated distributions. #
+# Chapter 6 decided that the distribution of the population sizes of states was “geometric” and while this is one possibility, a better choice would be the so-called “Pareto” distribution. #
+# We can use R to generate a Pareto distribution of state populations that may be quite similar to the populations of the actual U.S. states.#
+# In other words, we can generate random numbers for the sizes of the Fictional States of America.# Key task: Write, test, and submit the necessary code in R to accomplish the following:# 1. Generate 51 random numbers in a Pareto distribution and assign them to a variable called “FSApops.”# 2. Specify a “location” and a “shape” for your Pareto distribution that makes it as similar as possible to the actual distribution of state populations on page 44 of the textbook.# 3. Create a histogram that shows the distribution of values in FSApops.# 4. Use a command to report the actual mean and the actual standard deviation of the 51 values stored in FSApops.# 5. Use a command to report the population of your largest fictional state (i.e., your California) and your smallest fictional state (i.e., your Wyoming).#
+##
+# Hints: #
+# The necessary R command for generating random numbers in a Pareto distribution is located in a “package” called “VGAM”. #
+# You will have to look ahead to Chapter 9 in the book to learn about how to install and activate this package. #
+# The code you submit should include the two necessary commands for making this happen (they should be the first two commands in your code).#
+# In the VGAM package, you will find a command for generating random numbers that fit a Pareto distribution. You will have to look up the meaning of the location and shape parameters so that you can figure out how to set them to make your Fictional States of America as similar to the real states as possible. #
+# Note that random numbers will differ substantially every time you run the command, so we don’t expect your data to be a perfect match. #
+# You do want your smallest state to be about the size of Wyoming and about 15 of your states to be under 2 million in population. #
+# #
+# Learning Goals for this activity:# A.	Generate random numbers in a Pareto distribution and assign a variable name.# B.	Specify a “location” and a “shape” for a distribution to conform to a model.# C.	Create a histogram depicting a distribution of values.# D.	Use R commands to report mean and standard deviation.# E.	Use appropriate R command to report the most extreme values of a variable.#
+##
+#BEGIN#
+# Install VGAM Package for generating random numbers in a Pareto distribution #
+ install.packages("VGAM")#
+ library("VGAM", lib.loc="/Library/Frameworks/R.framework/Versions/3.1/Resources/library")#
+# STEP 1. Generate 51 random numbers in a Pareto distribution and assign them to a variable called “FSApops.”#
+FSApops <- rpareto(51,1,1)*100000#
+# Disply 51 Random Numbers#
+FSApops#
+# STEP 2. Specify a “location” and a “shape” for your Pareto distribution that makes it as similar as possible to the actual distribution of state populations on page 44 of the textbook.#
+MyLocation <- 2#
+MyShape <- 3#
+FSApops <- rpareto(51,MyLocation,MyShape)*100000#
+# Disply 51 Random Numbers with new location and shape#
+FSApops#
+# STEP 3. Create a histogram that shows the distribution of values in FSApops.#
+hist(FSApops, breaks=20)#
+# STEP 4. Use a command to report the actual mean and the actual standard deviation of the 51 values stored in FSApops.#
+# Mean#
+mean(FSApops)#
+# Standard Deviation#
+sd(FSApops)#
+# STEP 5.  Use a command to report the population of your largest fictional state (i.e., your California) and your smallest fictional state (i.e., your Wyoming).#
+# Largest Population#
+max(FSApops)#
+# Smallest Population#
+min(FSApops)#
+# END
+# Bret Costain#
+# IST687 – Exercise 4: Generate Distributions#
+# Fall 2014#
+# Due September 28, 2014 #
+##
+# Instructions#
+# A key focus of Chapter 6 of “An Introduction to Data Science,” is “distributions.” A distribution is simply an arrangement of values of a variable such as the population size of a state. #
+# A distribution can either be empirical, which means that it is an actual bunch of numbers, or it can be theoretical, in which case we are just imagining an ideal arrangement of numbers. #
+# The normal or “bell” curve is just such a theoretical distribution.# The R open source statistical system is great at creating empirical distributions that are made up of randomly generated numbers.#
+# In Chapter 6, the book includes several commands and explanations of randomly generated distributions. #
+# Chapter 6 decided that the distribution of the population sizes of states was “geometric” and while this is one possibility, a better choice would be the so-called “Pareto” distribution. #
+# We can use R to generate a Pareto distribution of state populations that may be quite similar to the populations of the actual U.S. states.#
+# In other words, we can generate random numbers for the sizes of the Fictional States of America.# Key task: Write, test, and submit the necessary code in R to accomplish the following:# 1. Generate 51 random numbers in a Pareto distribution and assign them to a variable called “FSApops.”# 2. Specify a “location” and a “shape” for your Pareto distribution that makes it as similar as possible to the actual distribution of state populations on page 44 of the textbook.# 3. Create a histogram that shows the distribution of values in FSApops.# 4. Use a command to report the actual mean and the actual standard deviation of the 51 values stored in FSApops.# 5. Use a command to report the population of your largest fictional state (i.e., your California) and your smallest fictional state (i.e., your Wyoming).#
+##
+# Hints: #
+# The necessary R command for generating random numbers in a Pareto distribution is located in a “package” called “VGAM”. #
+# You will have to look ahead to Chapter 9 in the book to learn about how to install and activate this package. #
+# The code you submit should include the two necessary commands for making this happen (they should be the first two commands in your code).#
+# In the VGAM package, you will find a command for generating random numbers that fit a Pareto distribution. You will have to look up the meaning of the location and shape parameters so that you can figure out how to set them to make your Fictional States of America as similar to the real states as possible. #
+# Note that random numbers will differ substantially every time you run the command, so we don’t expect your data to be a perfect match. #
+# You do want your smallest state to be about the size of Wyoming and about 15 of your states to be under 2 million in population. #
+# #
+# Learning Goals for this activity:# A.	Generate random numbers in a Pareto distribution and assign a variable name.# B.	Specify a “location” and a “shape” for a distribution to conform to a model.# C.	Create a histogram depicting a distribution of values.# D.	Use R commands to report mean and standard deviation.# E.	Use appropriate R command to report the most extreme values of a variable.#
+##
+#BEGIN#
+# Install VGAM Package for generating random numbers in a Pareto distribution #
+ install.packages("VGAM")#
+ library("VGAM", lib.loc="/Library/Frameworks/R.framework/Versions/3.1/Resources/library")#
+# STEP 1. Generate 51 random numbers in a Pareto distribution and assign them to a variable called “FSApops.”#
+# NOTE: Random number multiplied by 1000000 to create number in the million simliar to US poplulation numbers.#
+FSApops <- rpareto(51,1,1)*1000000#
+# Disply 51 Random Numbers#
+FSApops#
+# STEP 2. Specify a “location” and a “shape” for your Pareto distribution that makes it as similar as possible to the actual distribution of state populations on page 44 of the textbook.#
+# NOTE: Random number multiplied by 1000000 to create number in the million simliar to US poplulation numbers.#
+MyLocation <- 2#
+MyShape <- 3#
+FSApops <- rpareto(51,MyLocation,MyShape)*1000000#
+# Disply 51 Random Numbers with new location and shape#
+FSApops#
+# STEP 3. Create a histogram that shows the distribution of values in FSApops.#
+hist(FSApops, breaks=20)#
+# STEP 4. Use a command to report the actual mean and the actual standard deviation of the 51 values stored in FSApops.#
+# Mean#
+mean(FSApops)#
+# Standard Deviation#
+sd(FSApops)#
+# STEP 5.  Use a command to report the population of your largest fictional state (i.e., your California) and your smallest fictional state (i.e., your Wyoming).#
+# Largest Population#
+max(FSApops)#
+# Smallest Population#
+min(FSApops)#
+# END
+transportMode <- c(bus, train, car, bicycle)
+sd(10, 20, 30, 40, 50)
+sd(c(10, 20, 30, 40, 50))
+syrTemperature <- c(45, 32, 20, 13)
+mean(syrTemperature)
+mean(replicate(500, mean(sample(myData$v1, size=30, replace=TRUE)), simplify=TRUE))
+h = getURL ("https://www.googleapis.com/gmail/v1/users/102823877180866545771/labels")
+install.packages("RCurl")#
+library("RCurl")
+h = getURL ("https://www.googleapis.com/gmail/v1/users/102823877180866545771/labels")
+h
+h = getURL ("https://www.googleapis.com/gmail/v1/users/102823877180866545771/labels?fields=placesLived&key=AIzaSyA7KrZQYcgLzO0c4ObJL9G0f3IIsznpmro")
+h
+# MyGov Gmail Contacts#
+# written by Bret Costain#
+# April 27, 2015#
+# Retrieve Users Address based on GoogleID#
+# Execute curl script to retreiv contacts relvent to User address#
+# Flatten nested JSON file#
+# Output CSV file#
+# Output Google+ Cirlces#
+# NEXT STEP: CSV File imported in GMail into "myGov" folder within Contacts #
+##
+# BEGIN#
+# Set Working Directory#
+setwd("~/Desktop/MyGov")#
+# Install Packages#
+install.packages("RCurl")#
+library("RCurl")#
+install.packages("devtools")#
+library(devtools)#
+install.packages("rjson")#
+library("rjson")#
+install.packages("jsonlite")#
+library("jsonlite")#
+install.packages("foreach")#
+library("foreach")#
+install.packages("stringr")#
+library("stringr")#
+#
+##
+# FORMAT ADDRESS AS CURL EXPRESSION TO RETRIEVE USER ADDRESS #
+API_KEY = "AIzaSyA7KrZQYcgLzO0c4ObJL9G0f3IIsznpmro"#
+userGooglePlusID= "102823877180866545771"#
+expression1 = "https://www.googleapis.com/plus/v1/people/" # First part of getURL command BEFORE userGoglePlusID#
+expression2= "?fields=placesLived&key=" # First part of getURL command AFTER userGoglePlusID BEFORE API_KEY#
+addressRequest = paste(expression1, userGooglePlusID, expression2, API_KEY, sep="")#
+addressTest= getURL(addressRequest)#
+##
+# LOAD AS JSON ADDRESS AND CLEAN#
+json_address <- fromJSON(addressTest)#
+userAddress=json_address$placesLived$value#
+userAddressClean = str_replace_all(userAddress,",","") # REMOVE COMMAS#
+userAddressClean = str_replace_all(userAddress," ","%20") # REPLACE SPACES with %20 #
+##
+# RETRIVE CONTACTS FROM GOOGLE CIVIC API#
+a = "https://www.googleapis.com/civicinfo/v2/representatives?key=AIzaSyA7KrZQYcgLzO0c4ObJL9G0f3IIsznpmro&address=" # First part of getURL command BEFORE clean address#
+c= paste(a, userAddressClean, sep = "")#
+z= getURL(c)#
+##
+# CREATE LABELS#
+# Requires authorization#
+# POST https://www.googleapis.com/gmail/v1/users/userId/labels#
+# h = getURL ("https://www.googleapis.com/gmail/v1/users/102823877180866545771/labels#
+# ?fields=placesLived&key=AIzaSyA7KrZQYcgLzO0c4ObJL9G0f3IIsznpmro")#
+#
+# Load JSON File#
+json_file  <- z#
+json_data <- fromJSON(json_file)#
+##
+# CLEAN NULL FROM EMAIL#
+json_data$officials$email[sapply(json_data$officials$email, is.null)] <- NA#
+json_data$officials$emails[sapply(json_data$officials$emails, is.null)] <- NA#
+# CLEAN LEVEL#
+json_data$offices$level[sapply(json_data$offices$level, is.null)] <- "Local" # Change NULL to Local#
+json_data$offices$level <- gsub("administrativeArea1", "State", json_data$offices$level)# Change administraiveArea1 to State#
+json_data$offices$level <- gsub("country", "Federal", json_data$offices$level)# Change country to Federal#
+##
+# Create Channels Table#
+#	if (channels[[i]][1][[1]][s]=="Facebook") #
+#	{facebookID=channels[[i]][2][[1]][[s]]}#
+channels=json_data$officials$channel#
+channels[sapply(channels, is.null)] <- "NA" # Change NULL to Local#
+channelOffName=NULL#
+facebookID=NULL#
+channelID=NULL#
+channelType=NULL#
+channelCount=NULL#
+officialID=NULL#
+channelOffID=NULL#
+xyz=NULL#
+x=NULL#
+y=NULL#
+imax=length(channels)#
+for (i in 1:imax ) #
+{#
+smax=length(channels[[i]][2][[1]])#
+for (s in 1:smax ) #
+{#
+	channelType<-c(channelType,channels[[i]][1][[1]][[s]])#
+	channelID<-c(channelID,channels[[i]][2][[1]][[s]])#
+	channelOffName<-c(channelOffName,json_data$officials$name[i])#
+	}#
+}#
+channelDF<-data.frame(channelOffName,channelType,channelID) # Master datafram for channels#
+# GOOGLE+ LIST#
+GP = which(channelDF$channelType=="GooglePlus")#
+googleList = channelDF[GP,]#
+googleList2 = data.frame(googleList$channelOffName,googleList$channelID)#
+colnames(googleList2) <- c("Name","GooglePlus")#
+# FACEBOOK LIST#
+FB = which(channelDF$channelType=="Facebook")#
+facebookList = channelDF[FB,]#
+facebookList2 = data.frame(facebookList$channelOffName,facebookList$channelID)#
+colnames(facebookList2) <- c("Name","Facebook")#
+# TWITTER LIST#
+TW = which(channelDF$channelType=="Twitter")#
+twitterList = channelDF[TW,]#
+twitterList2 = data.frame(twitterList$channelOffName,twitterList$channelID)#
+colnames(twitterList2) <- c("Name","Twitter")#
+# YOUTUBE LIST#
+YT = which(channelDF$channelType=="YouTube")#
+youtubeList = channelDF[YT,]#
+youtubeList2 = data.frame(youtubeList$channelOffName,youtubeList$channelID)#
+colnames(youtubeList2) <- c("Name","Youtube")#
+# OUTPUT FILES#
+write.csv(googleList2, file = "googleList.csv") # CREATE GOOGLE+ FILE#
+write.csv(facebookList2, file = "facebookList.csv") # CREATE FACEBOOK FILE#
+write.csv(twitterList2, file = "twitterList.csv") # CREATE TWITTER FILE#
+write.csv(youtubeList2, file = "youtubeList.csv") # CREATE YOUTUBE FILE#
+##
+# CREATE OFFICE RELATED VECTORS#
+officialInd=NULL#
+officeInd=NULL#
+officeName=NULL#
+officeLevel = NULL#
+q= json_data$offices$officialIndices#
+imax=length(q)#
+for (i in 1:imax ) #
+{#
+smax=length(q[[i]])#
+for (s in 1:smax ) #
+{#
+	officialInd=c(officialInd,q[[i]][s])#
+	officeInd=c(officeInd,i)#
+	officeName=c(officeName,json_data$offices$name[i])#
+	officeLevel=c(officeLevel,json_data$offices$level[i])#
+	}#
+}#
+##
+officialLongName = (json_data$officials$name) # CREATE OFFICIAL NAME VECTOR#
+e = (json_data$officials$emails) # CREATE OFFICIAL EMAIL VECTOR#
+f = as.character(e) # CONVERT EMAIL to CHARACTER#
+ph = (json_data$official$phone)#
+ph2 = sapply(ph, "[[", 1) #Select first phone number#
+circle = as(officeLevel,"character")#
+photo = json_data$officials$photoUrl#
+officialFirstName= word(officialLongName,1)#
+officialLastName=word(officialLongName,-1)#
+##
+# CREATE MASTER DATE FRAME FOR CONTACTS#
+master = data.frame(officialLongName, officeName, f,ph2,circle,photo,officialInd,officeInd)#
+colnames(master) <- c("Name","Organization", "Email","phone","Circle","Photo","officialInd","officeInd")#
+write.csv(master, file = "MyGov.csv") # CREATE CSV File#
+# END
+# Create Channels Table#
+#	if (channels[[i]][1][[1]][s]=="Facebook") #
+#	{facebookID=channels[[i]][2][[1]][[s]]}#
+channels=json_data$officials$channel#
+channels[sapply(channels, is.null)] <- "NA" # Change NULL to Local#
+channelOffName=NULL#
+facebookID=NULL#
+channelID=NULL#
+channelType=NULL#
+channelCount=NULL#
+officialID=NULL#
+channelOffID=NULL#
+channelCircle=NULL#
+xyz=NULL#
+x=NULL#
+y=NULL#
+imax=length(channels)#
+for (i in 1:imax ) #
+{#
+smax=length(channels[[i]][2][[1]])#
+for (s in 1:smax ) #
+{#
+	channelType<-c(channelType,channels[[i]][1][[1]][[s]])#
+	channelID<-c(channelID,channels[[i]][2][[1]][[s]])#
+	channelOffName<-c(channelOffName,json_data$officials$name[i])#
+	channelCircle<-c(channelCircle,json_data$offices$level)#
+	}#
+}
+channelCircle
+# Create Channels Table#
+#	if (channels[[i]][1][[1]][s]=="Facebook") #
+#	{facebookID=channels[[i]][2][[1]][[s]]}#
+channels=json_data$officials$channel#
+channels[sapply(channels, is.null)] <- "NA" # Change NULL to Local#
+channelOffName=NULL#
+facebookID=NULL#
+channelID=NULL#
+channelType=NULL#
+channelCount=NULL#
+officialID=NULL#
+channelOffID=NULL#
+channelCircle=NULL#
+xyz=NULL#
+x=NULL#
+y=NULL#
+imax=length(channels)#
+for (i in 1:imax ) #
+{#
+smax=length(channels[[i]][2][[1]])#
+for (s in 1:smax ) #
+{#
+	channelType<-c(channelType,channels[[i]][1][[1]][[s]])#
+	channelID<-c(channelID,channels[[i]][2][[1]][[s]])#
+	channelOffName<-c(channelOffName,json_data$officials$name[i])#
+	channelCircle<-c(channelCircle,json_data$offices$level[i])#
+	}#
+}
+channelCircle
+length(channelCircle)
+length(channelType)
+channelDF<-data.frame(channelOffName,channelType,channelID,channelCircle) # Master datafram for channels
+channelDF
+circle
+length(circle)
+# CREATE CHANNELS TABLE#
+channels=json_data$officials$channel#
+channels[sapply(channels, is.null)] <- "NA" # Change NULL to Local#
+channelOffName=NULL#
+facebookID=NULL#
+channelID=NULL#
+channelType=NULL#
+channelCount=NULL#
+officialID=NULL#
+channelOffID=NULL#
+channelCircle=NULL#
+xyz=NULL#
+x=NULL#
+y=NULL#
+imax=length(channels)#
+for (i in 1:imax ) #
+{#
+smax=length(channels[[i]][2][[1]])#
+for (s in 1:smax ) #
+{#
+	channelType<-c(channelType,channels[[i]][1][[1]][[s]])#
+	channelID<-c(channelID,channels[[i]][2][[1]][[s]])#
+	channelOffName<-c(channelOffName,json_data$officials$name[i])#
+	channelCircle<-c(channelCircle,circle[i])#
+	}#
+}
+channelCircle
+length(channelCircle)
+length(channelType)
+length(channelID)
+channelDF<-data.frame(channelOffName,channelType,channelID,channelCircle) # Master dataframe for channels
+channelDF
+googleList2 = data.frame(googleList$channelOffName,googleList$channelID,channelCircle)#
+colnames(googleList2) <- c("Name","GooglePlus", "Circle")
+channelDF<-data.frame(channelOffName,channelType,channelID,channelCircle) # Master dataframe for channels
+googleList2 = data.frame(googleList$channelOffName,googleList$channelID,channelDF$channelCircle)#
+colnames(googleList2) <- c("Name","GooglePlus", "Circle")
+googleList2 = data.frame(googleList$channelOffName,googleList$channelID,googleList$channelCircle)#
+colnames(googleList2) <- c("Name","GooglePlus", "Circle")
+str(googleList)
+channelDF<-data.frame(channelOffName,channelType,channelID,channelCircle) # Master dataframe for channels#
+# GOOGLE+ LIST#
+GP = which(channelDF$channelType=="GooglePlus")#
+googleList = channelDF[GP,]#
+googleList2 = data.frame(googleList$channelOffName,googleList$channelID,googleList$channelCircle)#
+colnames(googleList2) <- c("Name","GooglePlus", "Circle")
+googleList2
+# MyGov Gmail Contacts#
+# written by Bret Costain#
+# April 27, 2015#
+# Retrieve Users Address based on GoogleID#
+# Execute curl script to retreiv contacts relvent to User address#
+# Flatten nested JSON file#
+# Output CSV file#
+# Output Google+ Cirlces, Facebook List, Twitter List, and YouTube List#
+# NEXT STEP: CSV File imported in GMail into "myGov" folder within Contacts #
+##
+# BEGIN#
+# Set Working Directory#
+setwd("~/Desktop/MyGov")#
+# Install Packages#
+install.packages("RCurl")#
+library("RCurl")#
+install.packages("devtools")#
+library(devtools)#
+install.packages("rjson")#
+library("rjson")#
+install.packages("jsonlite")#
+library("jsonlite")#
+install.packages("foreach")#
+library("foreach")#
+install.packages("stringr")#
+library("stringr")#
+##
+# FORMAT ADDRESS AS CURL EXPRESSION TO RETRIEVE USER ADDRESS #
+API_KEY = "AIzaSyA7KrZQYcgLzO0c4ObJL9G0f3IIsznpmro"#
+userGooglePlusID= "102823877180866545771"#
+expression1 = "https://www.googleapis.com/plus/v1/people/" # First part of getURL command BEFORE userGoglePlusID#
+expression2= "?fields=placesLived&key=" # First part of getURL command AFTER userGoglePlusID BEFORE API_KEY#
+addressRequest = paste(expression1, userGooglePlusID, expression2, API_KEY, sep="")#
+addressTest= getURL(addressRequest)#
+##
+# LOAD AS JSON ADDRESS AND CLEAN#
+json_address <- fromJSON(addressTest)#
+userAddress=json_address$placesLived$value#
+userAddressClean = str_replace_all(userAddress,",","") # REMOVE COMMAS#
+userAddressClean = str_replace_all(userAddress," ","%20") # REPLACE SPACES with %20 #
+##
+# RETRIVE CONTACTS FROM GOOGLE CIVIC API#
+a = "https://www.googleapis.com/civicinfo/v2/representatives?key=AIzaSyA7KrZQYcgLzO0c4ObJL9G0f3IIsznpmro&address=" # First part of getURL command BEFORE clean address#
+c= paste(a, userAddressClean, sep = "")#
+z= getURL(c)#
+##
+# CREATE LABELS#
+# Requires authorization#
+# POST https://www.googleapis.com/gmail/v1/users/userId/labels#
+# h = getURL ("https://www.googleapis.com/gmail/v1/users/102823877180866545771/labels#
+# ?fields=placesLived&key=AIzaSyA7KrZQYcgLzO0c4ObJL9G0f3IIsznpmro")#
+##
+# Load JSON File#
+json_file  <- z#
+json_data <- fromJSON(json_file)#
+##
+# CLEAN NULL FROM EMAIL#
+json_data$officials$email[sapply(json_data$officials$email, is.null)] <- NA#
+json_data$officials$emails[sapply(json_data$officials$emails, is.null)] <- NA#
+# CLEAN LEVEL#
+json_data$offices$level[sapply(json_data$offices$level, is.null)] <- "Local" # Change NULL to Local#
+json_data$offices$level <- gsub("administrativeArea1", "State", json_data$offices$level)# Change administraiveArea1 to State#
+json_data$offices$level <- gsub("country", "Federal", json_data$offices$level)# Change country to Federal#
+##
+# CREATE OFFICE RELATED VECTORS#
+officialInd=NULL#
+officeInd=NULL#
+officeName=NULL#
+officeLevel = NULL#
+q= json_data$offices$officialIndices#
+imax=length(q)#
+for (i in 1:imax ) #
+{#
+smax=length(q[[i]])#
+for (s in 1:smax ) #
+{#
+	officialInd=c(officialInd,q[[i]][s])#
+	officeInd=c(officeInd,i)#
+	officeName=c(officeName,json_data$offices$name[i])#
+	officeLevel=c(officeLevel,json_data$offices$level[i])#
+	}#
+}#
+##
+officialLongName = (json_data$officials$name) # CREATE OFFICIAL NAME VECTOR#
+e = (json_data$officials$emails) # CREATE OFFICIAL EMAIL VECTOR#
+f = as.character(e) # CONVERT EMAIL to CHARACTER#
+ph = (json_data$official$phone)#
+ph2 = sapply(ph, "[[", 1) #Select first phone number#
+circle = as(officeLevel,"character")#
+photo = json_data$officials$photoUrl#
+officialFirstName= word(officialLongName,1)#
+officialLastName=word(officialLongName,-1)#
+##
+# CREATE MASTER DATE FRAME FOR CONTACTS#
+master = data.frame(officialLongName, officeName, f,ph2,circle,photo,officialInd,officeInd)#
+colnames(master) <- c("Name","Organization", "Email","phone","Circle","Photo","officialInd","officeInd")#
+write.csv(master, file = "MyGov.csv") # CREATE CSV File#
+##
+# CREATE CHANNELS TABLE#
+channels=json_data$officials$channel#
+channels[sapply(channels, is.null)] <- "NA" # Change NULL to Local#
+channelOffName=NULL#
+facebookID=NULL#
+channelID=NULL#
+channelType=NULL#
+channelCount=NULL#
+officialID=NULL#
+channelOffID=NULL#
+channelCircle=NULL#
+xyz=NULL#
+x=NULL#
+y=NULL#
+imax=length(channels)#
+for (i in 1:imax ) #
+{#
+smax=length(channels[[i]][2][[1]])#
+for (s in 1:smax ) #
+{#
+	channelType<-c(channelType,channels[[i]][1][[1]][[s]]) #extrsact Channel type#
+	channelID<-c(channelID,channels[[i]][2][[1]][[s]]) # extract Channel ID#
+	channelOffName<-c(channelOffName,json_data$officials$name[i]) # Log Name for each row#
+	channelCircle<-c(channelCircle,circle[i]) # Log Circle for each row#
+	}#
+}#
+channelDF<-data.frame(channelOffName,channelType,channelID,channelCircle) # Master dataframe for channels#
+# GOOGLE+ LIST#
+GP = which(channelDF$channelType=="GooglePlus")#
+googleList = channelDF[GP,]#
+googleList2 = data.frame(googleList$channelOffName,googleList$channelID,googleList$channelCircle)#
+colnames(googleList2) <- c("Name","GooglePlus", "Circle")#
+# FACEBOOK LIST#
+FB = which(channelDF$channelType=="Facebook")#
+facebookList = channelDF[FB,]#
+facebookList2 = data.frame(facebookList$channelOffName,facebookList$channelID)#
+colnames(facebookList2) <- c("Name","Facebook")#
+# TWITTER LIST#
+TW = which(channelDF$channelType=="Twitter")#
+twitterList = channelDF[TW,]#
+twitterList2 = data.frame(twitterList$channelOffName,twitterList$channelID)#
+colnames(twitterList2) <- c("Name","Twitter")#
+# YOUTUBE LIST#
+YT = which(channelDF$channelType=="YouTube")#
+youtubeList = channelDF[YT,]#
+youtubeList2 = data.frame(youtubeList$channelOffName,youtubeList$channelID)#
+colnames(youtubeList2) <- c("Name","Youtube")#
+# OUTPUT FILES#
+write.csv(googleList2, file = "googleList.csv") # CREATE GOOGLE+ FILE#
+write.csv(facebookList2, file = "facebookList.csv") # CREATE FACEBOOK FILE#
+write.csv(twitterList2, file = "twitterList.csv") # CREATE TWITTER FILE#
+write.csv(youtubeList2, file = "youtubeList.csv") # CREATE YOUTUBE FILE#
+##
+# END
+channels=json_data$officials$channel#
+channels[sapply(channels, is.null)] <- "NA" # Change NULL to Local#
+# SET NULLS#
+channelID=NULL#
+channelType=NULL#
+channelOffName=NULL#
+channelCircle=NULL#
+##
+imax=length(channels)#
+for (i in 1:imax ) #
+{#
+smax=length(channels[[i]][2][[1]])#
+for (s in 1:smax ) #
+{#
+	channelType<-c(channelType,channels[[i]][1][[1]][[s]]) #extract Channel Type#
+	channelID<-c(channelID,channels[[i]][2][[1]][[s]]) # extract Channel ID#
+	channelOffName<-c(channelOffName,json_data$officials$name[i]) # Log Name for each row#
+	channelCircle<-c(channelCircle,circle[i]) # Log Circle for each row#
+	}#
+}#
+##
+# CREATE MASTER DATAFRAME FOR CHANNELS#
+channelDF<-data.frame(channelOffName,channelType,channelID,channelCircle)
+channelDF

@@ -1,0 +1,822 @@
+{
+ "kind": "civicinfo#representativeInfoResponse",
+ "status": "success",
+ "normalizedInput": {
+  "line1": "725 adobe canyon rd",
+  "city": "kenwood",
+  "state": "CA",
+  "zip": "95452"
+ },
+ "divisions": {
+  "ocd-division/country:us/state:ca/sldl:2": {
+   "name": "California Assembly district 2",
+   "scope": "stateLower",
+   "officeIds": [
+    "O4"
+   ]
+  },
+  "ocd-division/country:us/state:ca/county:sonoma": {
+   "name": "Sonoma County",
+   "scope": "countywide",
+   "officeIds": [
+    "O8",
+    "O9",
+    "Oa",
+    "Ob"
+   ]
+  },
+  "ocd-division/country:us/state:ca/cd:5": {
+   "name": "California's 5th congressional district",
+   "scope": "congressional",
+   "officeIds": [
+    "O0"
+   ]
+  },
+  "ocd-division/country:us/state:ca/sldu:2": {
+   "name": "California State Senate district 2",
+   "scope": "stateUpper",
+   "officeIds": [
+    "O5"
+   ]
+  },
+  "ocd-division/country:us": {
+   "name": "United States",
+   "scope": "national",
+   "officeIds": [
+    "O1",
+    "O2"
+   ]
+  },
+  "ocd-division/country:us/state:ca": {
+   "name": "California",
+   "scope": "statewide",
+   "officeIds": [
+    "O3",
+    "O6",
+    "O7",
+    "Od",
+    "Oe",
+    "Of",
+    "O10",
+    "O11",
+    "O12"
+   ]
+  },
+  "ocd-division/country:us/state:ca/county:sonoma/council_district:1": {
+   "name": "Sonoma County CA Board of Supervisors District 1",
+   "scope": "countyCouncil",
+   "officeIds": [
+    "Oc"
+   ]
+  }
+ },
+ "offices": {
+  "O0": {
+   "name": "United States House of Representatives CA-05",
+   "divisionId": "ocd-division/country:us/state:ca/cd:5",
+   "level": "federal",
+   "officialIds": [
+    "P0"
+   ]
+  },
+  "O1": {
+   "name": "President of the United States",
+   "divisionId": "ocd-division/country:us",
+   "level": "federal",
+   "officialIds": [
+    "P1"
+   ]
+  },
+  "O2": {
+   "name": "Vice-President of the United States",
+   "divisionId": "ocd-division/country:us",
+   "level": "federal",
+   "officialIds": [
+    "P2"
+   ]
+  },
+  "O3": {
+   "name": "United States Senate",
+   "divisionId": "ocd-division/country:us/state:ca",
+   "level": "federal",
+   "officialIds": [
+    "P3",
+    "P4"
+   ]
+  },
+  "O4": {
+   "name": "CA State Assembly District 2",
+   "divisionId": "ocd-division/country:us/state:ca/sldl:2",
+   "level": "state",
+   "officialIds": [
+    "P5"
+   ]
+  },
+  "O5": {
+   "name": "CA State Senate District 2",
+   "divisionId": "ocd-division/country:us/state:ca/sldu:2",
+   "level": "state",
+   "officialIds": [
+    "P6"
+   ]
+  },
+  "O6": {
+   "name": "Governor",
+   "divisionId": "ocd-division/country:us/state:ca",
+   "level": "state",
+   "officialIds": [
+    "P7"
+   ]
+  },
+  "O7": {
+   "name": "Lieutenant Governor",
+   "divisionId": "ocd-division/country:us/state:ca",
+   "level": "state",
+   "officialIds": [
+    "P8"
+   ]
+  },
+  "O8": {
+   "name": "Sheriff-Coroner",
+   "divisionId": "ocd-division/country:us/state:ca/county:sonoma",
+   "level": "county",
+   "officialIds": [
+    "P9"
+   ]
+  },
+  "O9": {
+   "name": "District Attorney",
+   "divisionId": "ocd-division/country:us/state:ca/county:sonoma",
+   "level": "county",
+   "officialIds": [
+    "Pa"
+   ]
+  },
+  "Oa": {
+   "name": "Assessor-County Clerk-Recorder",
+   "divisionId": "ocd-division/country:us/state:ca/county:sonoma",
+   "level": "county",
+   "officialIds": [
+    "Pb"
+   ]
+  },
+  "Ob": {
+   "name": "Auditor-Controller-Treasurer-Tax Collecter",
+   "divisionId": "ocd-division/country:us/state:ca/county:sonoma",
+   "level": "county",
+   "officialIds": [
+    "Pc"
+   ]
+  },
+  "Oc": {
+   "name": "Board of Supervisors, District 1",
+   "divisionId": "ocd-division/country:us/state:ca/county:sonoma/council_district:1",
+   "level": "county",
+   "officialIds": [
+    "Pd"
+   ]
+  },
+  "Od": {
+   "name": "State Treasurer",
+   "divisionId": "ocd-division/country:us/state:ca",
+   "level": "state",
+   "officialIds": [
+    "Pe"
+   ]
+  },
+  "Oe": {
+   "name": "Attorney General",
+   "divisionId": "ocd-division/country:us/state:ca",
+   "level": "state",
+   "officialIds": [
+    "Pf"
+   ]
+  },
+  "Of": {
+   "name": "State Controller",
+   "divisionId": "ocd-division/country:us/state:ca",
+   "level": "state",
+   "officialIds": [
+    "P10"
+   ]
+  },
+  "O10": {
+   "name": "Secretary of State",
+   "divisionId": "ocd-division/country:us/state:ca",
+   "level": "state",
+   "officialIds": [
+    "P11"
+   ]
+  },
+  "O11": {
+   "name": "Insurance Commissioner",
+   "divisionId": "ocd-division/country:us/state:ca",
+   "level": "state",
+   "officialIds": [
+    "P12"
+   ]
+  },
+  "O12": {
+   "name": "State Superintendent of Public Instruction",
+   "divisionId": "ocd-division/country:us/state:ca",
+   "level": "state",
+   "officialIds": [
+    "P13"
+   ]
+  }
+ },
+ "officials": {
+  "P0": {
+   "name": "Mike Thompson",
+   "address": [
+    {
+     "line1": "231 Cannon Office Building",
+     "city": "washington",
+     "state": "DC",
+     "zip": "20515"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(202) 225-3311"
+   ],
+   "urls": [
+    "http://mikethompson.house.gov/"
+   ],
+   "photoUrl": "http://bioguide.congress.gov/bioguide/photo/T/T000460.jpg",
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "RepMikeThompson"
+    },
+    {
+     "type": "Twitter",
+     "id": "RepThompson"
+    },
+    {
+     "type": "YouTube",
+     "id": "CongressmanMThompson"
+    }
+   ]
+  },
+  "P1": {
+   "name": "Barack Obama",
+   "address": [
+    {
+     "line1": "1600 pennsylvania avenue nw",
+     "city": "washington",
+     "state": "",
+     "zip": "20500"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(202) 456-1111"
+   ],
+   "urls": [
+    "http://www.whitehouse.gov/"
+   ],
+   "photoUrl": "http://www.whitehouse.gov/sites/default/files/imagecache/admin_official_lowres/administration-official/ao_image/president_official_portrait_hires.jpg",
+   "channels": [
+    {
+     "type": "GooglePlus",
+     "id": "+whitehouse"
+    },
+    {
+     "type": "Facebook",
+     "id": "whitehouse"
+    },
+    {
+     "type": "Twitter",
+     "id": "whitehouse"
+    },
+    {
+     "type": "YouTube",
+     "id": "barackobama"
+    }
+   ]
+  },
+  "P2": {
+   "name": "Joseph R. Biden",
+   "address": [
+    {
+     "line1": "1600 pennsylvania avenue nw",
+     "city": "washington",
+     "state": "",
+     "zip": "20500"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(202) 456-1111"
+   ],
+   "urls": [
+    "http://www.whitehouse.gov/"
+   ],
+   "photoUrl": "http://www.whitehouse.gov/sites/default/files/imagecache/admin_official_lowres/administration-official/ao_image/vp_portrait.jpeg",
+   "channels": [
+    {
+     "type": "GooglePlus",
+     "id": "+whitehouse"
+    },
+    {
+     "type": "Facebook",
+     "id": "whitehouse"
+    },
+    {
+     "type": "Twitter",
+     "id": "whitehouse"
+    }
+   ]
+  },
+  "P3": {
+   "name": "Dianne Feinstein",
+   "address": [
+    {
+     "line1": "331",
+     "city": "washington",
+     "state": "DC",
+     "zip": "20510"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(202) 224-3841"
+   ],
+   "urls": [
+    "http://www.feinstein.senate.gov/public/"
+   ],
+   "photoUrl": "http://feinstein.senate.gov/public/_images/aboutdianne/officiaphoto-thumbl.jpg",
+   "emails": [
+    "senator@feinstein.senate.gov"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "SenatorFeinstein"
+    },
+    {
+     "type": "Twitter",
+     "id": "SenFeinstein"
+    },
+    {
+     "type": "YouTube",
+     "id": "SenatorFeinstein"
+    }
+   ]
+  },
+  "P4": {
+   "name": "Barbara Boxer",
+   "address": [
+    {
+     "line1": "112",
+     "city": "washington",
+     "state": "DC",
+     "zip": "20510"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(202) 224-3553"
+   ],
+   "urls": [
+    "http://www.boxer.senate.gov/"
+   ],
+   "photoUrl": "http://bioguide.congress.gov/bioguide/photo/B/B000711.jpg",
+   "emails": [
+    "senator@boxer.senate.gov"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "senatorboxer"
+    },
+    {
+     "type": "Twitter",
+     "id": "SenatorBoxer"
+    },
+    {
+     "type": "YouTube",
+     "id": "SenatorBoxer"
+    }
+   ]
+  },
+  "P5": {
+   "name": "Jim Wood",
+   "address": [
+    {
+     "line1": "California State Capitol",
+     "line2": "P.O. Box 942849",
+     "line3": "Room 2141",
+     "city": "Sacramento",
+     "state": "CA",
+     "zip": "94249-0002"
+    },
+    {
+     "line1": "50 D Street",
+     "line2": "Suite 450",
+     "line3": "",
+     "city": "Santa Rosa",
+     "state": "CA",
+     "zip": "95404"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(916) 319-2002",
+    "(707) 463-5770",
+    "(707) 576-2526",
+    "(707) 445-7014"
+   ],
+   "urls": [
+    "http://asmdc.org/members/a02/",
+    "http://www.jimwoodforassembly.com/"
+   ],
+   "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD02_Wood_Portrait150_20141201_v2.jpg?1417456205"
+  },
+  "P6": {
+   "name": "Mike McGuire",
+   "address": [
+    {
+     "line1": "State Capitol",
+     "line2": "Room 4085",
+     "line3": "",
+     "city": "Sacramento",
+     "state": "CA",
+     "zip": "95814-4900"
+    },
+    {
+     "line1": "50 D Street",
+     "line2": "Suite 120A",
+     "line3": "",
+     "city": "Santa Rosa",
+     "state": "CA",
+     "zip": "95404"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(916) 651-4002",
+    "(707) 576-2771",
+    "(707) 445-6508"
+   ],
+   "urls": [
+    "http://sd02.senate.ca.gov/"
+   ],
+   "photoUrl": "http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/mcguire-mike.jpg",
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "ilike_mike"
+    },
+    {
+     "type": "Facebook",
+     "id": "SupervisorMikeMcGuire"
+    }
+   ]
+  },
+  "P7": {
+   "name": "Edmund G. Brown Jr.",
+   "address": [
+    {
+     "line1": "c/o State Capitol",
+     "line2": "Suite 1173",
+     "city": "sacramento",
+     "state": "CA",
+     "zip": "95814"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(916) 445-2841"
+   ],
+   "urls": [
+    "http://gov.ca.gov/home.php"
+   ],
+   "channels": [
+    {
+     "type": "GooglePlus",
+     "id": "+JerryBrown"
+    },
+    {
+     "type": "Facebook",
+     "id": "jerrybrown"
+    },
+    {
+     "type": "Twitter",
+     "id": "JerryBrownGov"
+    }
+   ]
+  },
+  "P8": {
+   "name": "Gavin Newsom",
+   "address": [
+    {
+     "line1": "State Capitol",
+     "line2": "Suite 1114",
+     "city": "sacramento",
+     "state": "CA",
+     "zip": "95814"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(916) 445-8994"
+   ],
+   "urls": [
+    "http://www.ltg.ca.gov/"
+   ],
+   "photoUrl": "http://www.ltg.ca.gov/images/newsimages/i7.png",
+   "emails": [
+    "gavin@gavinnewsom.com"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "GavinNewsom"
+    },
+    {
+     "type": "Twitter",
+     "id": "gavinnewsom"
+    }
+   ]
+  },
+  "P9": {
+   "name": "Steve Freitas",
+   "address": [
+    {
+     "line1": "2796 ventura avenue",
+     "city": "santa rosa",
+     "state": "CA",
+     "zip": "95403"
+    }
+   ],
+   "party": "Nonpartisan",
+   "phones": [
+    "(707) 565-2781"
+   ],
+   "urls": [
+    "http://www.sonomasheriff.org/"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "sonoma.sheriff"
+    },
+    {
+     "type": "Twitter",
+     "id": "sonomasheriff"
+    }
+   ]
+  },
+  "Pa": {
+   "name": "Jill Ravitch",
+   "address": [
+    {
+     "line1": "600 Administration Drive",
+     "line2": "Room 212 J",
+     "city": "santa rosa",
+     "state": "CA",
+     "zip": "95403"
+    }
+   ],
+   "party": "Nonpartisan",
+   "phones": [
+    "(707) 565-2311"
+   ],
+   "urls": [
+    "http://da.sonoma-county.org/"
+   ]
+  },
+  "Pb": {
+   "name": "William F. Rousseau",
+   "address": [
+    {
+     "line1": "585 Fiscal Drive",
+     "line2": "Suite 104-F",
+     "city": "santa rosa",
+     "state": "CA",
+     "zip": "95403"
+    }
+   ],
+   "party": "Nonpartisan",
+   "phones": [
+    "(707) 565-1888"
+   ],
+   "urls": [
+    "http://www.sonoma-county.org/cra/index.asp"
+   ]
+  },
+  "Pc": {
+   "name": "David E. Sundstrom",
+   "address": [
+    {
+     "line1": "585 fiscal drive",
+     "city": "santa rosa",
+     "state": "CA",
+     "zip": "95403"
+    }
+   ],
+   "party": "Nonpartisan",
+   "phones": [
+    "(707) 565-3285"
+   ],
+   "urls": [
+    "http://www.sonoma-county.org/acttc/index.htm"
+   ],
+   "emails": [
+    "David.Sundstrom@sonoma-county.org"
+   ]
+  },
+  "Pd": {
+   "name": "Susan Gorin",
+   "address": [
+    {
+     "line1": "575 Administration Drive",
+     "line2": "Room 100 A",
+     "city": "santa rosa",
+     "state": "CA",
+     "zip": "95403"
+    }
+   ],
+   "party": "Nonpartisan",
+   "phones": [
+    "(707) 565-2241"
+   ],
+   "emails": [
+    "Susan.Gorin@sonoma-county.org"
+   ]
+  },
+  "Pe": {
+   "name": "John Chiang",
+   "address": [
+    {
+     "line1": "P.O. Box 942809",
+     "city": "sacramento",
+     "state": "CA",
+     "zip": "94209"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(916) 653-2995"
+   ],
+   "urls": [
+    "http://www.treasurer.ca.gov/"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "STONewsroom"
+    }
+   ]
+  },
+  "Pf": {
+   "name": "Kamala D. Harris",
+   "address": [
+    {
+     "line1": "P.O. Box 944255",
+     "city": "sacramento",
+     "state": "CA",
+     "zip": "94244"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(916) 445-9555"
+   ],
+   "urls": [
+    "http://www.ag.ca.gov/"
+   ],
+   "emails": [
+    "piu@doj.ca.gov"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "149799031764167"
+    },
+    {
+     "type": "Twitter",
+     "id": "CalAGHarris"
+    }
+   ]
+  },
+  "P10": {
+   "name": "Betty T. Yee",
+   "address": [
+    {
+     "line1": "P.O. Box 942850",
+     "city": "sacramento",
+     "state": "CA",
+     "zip": "94250"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(916) 445-2636"
+   ],
+   "urls": [
+    "http://www.sco.ca.gov/"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "137732083043662"
+    },
+    {
+     "type": "Twitter",
+     "id": "CAController"
+    }
+   ]
+  },
+  "P11": {
+   "name": "Alex Padilla",
+   "address": [
+    {
+     "line1": "1500 11th street",
+     "city": "sacramento",
+     "state": "CA",
+     "zip": "95814"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(916) 653-7244"
+   ],
+   "urls": [
+    "http://www.sos.ca.gov/"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "CaliforniaSOS"
+    },
+    {
+     "type": "Twitter",
+     "id": "CASOSvote"
+    }
+   ]
+  },
+  "P12": {
+   "name": "Dave Jones",
+   "address": [
+    {
+     "line1": "300 capitol mall",
+     "city": "sacramento",
+     "state": "CA",
+     "zip": "95814"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(916) 492-3500"
+   ],
+   "urls": [
+    "http://www.insurance.ca.gov/"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "insurancecagov"
+    },
+    {
+     "type": "Twitter",
+     "id": "CDINews"
+    }
+   ]
+  },
+  "P13": {
+   "name": "Tom Torlakson",
+   "address": [
+    {
+     "line1": "1430 N Street",
+     "line2": "Suite 5602",
+     "city": "sacramento",
+     "state": "CA",
+     "zip": "95814"
+    }
+   ],
+   "party": "Nonpartisan",
+   "phones": [
+    "(916) 319-0800"
+   ],
+   "urls": [
+    "http://www.cde.ca.gov/"
+   ],
+   "emails": [
+    "superintendent@cde.ca.gov"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "CAEducation"
+    },
+    {
+     "type": "Twitter",
+     "id": "cadepted"
+    }
+   ]
+  }
+ }
+}

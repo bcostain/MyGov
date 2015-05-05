@@ -1,0 +1,21 @@
+"","Name","Organization","Email","phone","Circle","Photo","officialInd","officeInd"
+"1","Mike Thompson","United States House of Representatives CA-05","NA","(202) 225-3311","Federal","http://bioguide.congress.gov/bioguide/photo/T/T000460.jpg",0,1
+"2","Barack Obama","President of the United States","NA","(202) 456-1111","Federal","http://www.whitehouse.gov/sites/default/files/imagecache/admin_official_lowres/administration-official/ao_image/president_official_portrait_hires.jpg",1,2
+"3","Joseph R. Biden","Vice-President of the United States","NA","(202) 456-1111","Federal","http://www.whitehouse.gov/sites/default/files/imagecache/admin_official_lowres/administration-official/ao_image/vp_portrait.jpeg",2,3
+"4","Dianne Feinstein","United States Senate","NA","(202) 224-3841","Federal","http://feinstein.senate.gov/public/_images/aboutdianne/officiaphoto-thumbl.jpg",3,4
+"5","Barbara Boxer","United States Senate","NA","(202) 224-3553","Federal","http://bioguide.congress.gov/bioguide/photo/B/B000711.jpg",4,4
+"6","Jim Wood","CA State Assembly District 2","NA","(916) 319-2002","State","http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD02_Wood_Portrait150_20141201_v2.jpg?1417456205",5,5
+"7","Mike McGuire","CA State Senate District 2","NA","(916) 651-4002","State","http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/mcguire-mike.jpg",6,6
+"8","Edmund G. Brown Jr.","Governor","NA","(916) 445-2841","State",NA,7,7
+"9","Gavin Newsom","Lieutenant Governor","gavin@gavinnewsom.com","(916) 445-8994","State","http://www.ltg.ca.gov/images/newsimages/i7.png",8,8
+"10","Steve Freitas","Sheriff-Coroner","NA","(707) 565-2781","Local",NA,9,9
+"11","Jill Ravitch","District Attorney","NA","(707) 565-2311","Local",NA,10,10
+"12","William F. Rousseau","Assessor-County Clerk-Recorder","NA","(707) 565-1888","Local",NA,11,11
+"13","David E. Sundstrom","Auditor-Controller-Treasurer-Tax Collecter","David.Sundstrom@sonoma-county.org","(707) 565-3285","Local",NA,12,12
+"14","Susan Gorin","Board of Supervisors, District 1","Susan.Gorin@sonoma-county.org","(707) 565-2241","Local",NA,13,13
+"15","John Chiang","State Treasurer","NA","(916) 653-2995","Local",NA,14,14
+"16","Kamala D. Harris","Attorney General","piu@doj.ca.gov","(916) 445-9555","Local",NA,15,15
+"17","Betty T. Yee","State Controller","NA","(916) 445-2636","Local",NA,16,16
+"18","Alex Padilla","Secretary of State","NA","(916) 653-7244","Local",NA,17,17
+"19","Dave Jones","Insurance Commissioner","NA","(916) 492-3500","Local",NA,18,18
+"20","Tom Torlakson","State Superintendent of Public Instruction","superintendent@cde.ca.gov","(916) 319-0800","Local",NA,19,19

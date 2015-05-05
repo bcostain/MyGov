@@ -1,0 +1,13 @@
+os.system("curl \
+  -H "Content-Type: application/json" \
+  -d "{ 'address': '725 Adobe Canyon Road Kenwood CA' 
+}" \
+  >> ~/output.txt \
+https://www.googleapis.com/civicinfo/v1/representatives/lookup?key=AIzaSyDS3b_PwC4Zg1fN5pjWlEt8g_9125lxV8U
+")
+
+
+
+
+curl "https://www.googleapis.com/civicinfo/v2/voterinfo?key=AIzaSyDS3b_PwC4Zg1fN5pjWlEt8g_9125lxV8U&address=1263%20Pacific%20Ave.%20Kansas%20City%20KS&electionId=2000"
+
